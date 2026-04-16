@@ -1,0 +1,2474 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="12780.86px" height="3934.04px"
+		style="transform-origin: 0px 0px 0px;" version="1.1"
+		xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style xmlns="http://www.w3.org/2000/svg" type="text/css"><![CDATA[
+		* {
+			text-rendering: geometricprecision !important;
+		}
+		]]><![CDATA[@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans'), local('NotoSans'), url("https://mirostatic.com/app/static/a73798e3d459e1bc.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url("https://mirostatic.com/app/static/a8edd710f88715d4.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Noto Sans Medium'), local('NotoSans-Medium'), url("https://mirostatic.com/app/static/006d7e33e60b9e12.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Noto Sans Medium Italic'), local('NotoSans-MediumItalic'), url("https://mirostatic.com/app/static/31387059566a3171.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Noto Sans SemiBold'), local('NotoSans-SemiBold'), url("https://mirostatic.com/app/static/526dd53b40975c37.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Noto Sans SemiBold Italic'), local('NotoSans-SemiBoldItalic'), url("https://mirostatic.com/app/static/e73d4fdd87d7e319.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url("https://mirostatic.com/app/static/9f11d6779c14d2bc.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url("https://mirostatic.com/app/static/888e13e017cedc15.woff2") format('woff2');
+}
+]]><![CDATA[@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/800985e1502d12bf.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/d8a7ca42a20caea5.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/3cc74c1d3919bd5c.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/f0481285dc248cf0.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/2f5e8dcf6e47bf00.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/0e625f45b71a26f1.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/645c27eb7d93eca8.woff2") format('woff2');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans Hebrew';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Hebrew Regular'), local('Noto Sans Hebrew-Regular'), url("https://mirostatic.com/app/static/7ebe1dcf0343326c.woff2") format('woff2'), url("https://mirostatic.com/app/static/6c11f037d6968262.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans Hebrew';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Hebrew Bold'), local('Noto Sans Hebrew-Bold'), url("https://mirostatic.com/app/static/d2883e2f177d0dad.woff2") format('woff2'), url("https://mirostatic.com/app/static/8546991909eadbc9.woff") format('woff');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Japanese Regular'), local('Noto Sans Japanese-Regular'), url("https://mirostatic.com/app/static/9320b3c07ab79383.woff2") format('woff2'), url("https://mirostatic.com/app/static/a43be2cbcfc0b250.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Japanese Bold'), local('Noto Sans Japanese-Bold'), url("https://mirostatic.com/app/static/7ab032c73212439f.woff2") format('woff2'), url("https://mirostatic.com/app/static/29f177f4466bd7a1.woff") format('woff');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url("https://mirostatic.com/app/static/7a5b625774730d22.woff2") format('woff2'), url("https://mirostatic.com/app/static/2d84dc606f1fb88e.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url("https://mirostatic.com/app/static/fa5a3d9073cdd58f.woff2") format('woff2'), url("https://mirostatic.com/app/static/7ded243557c83342.woff") format('woff');
+}
+]]></style><style type='text/css'>.card-widget {
+	font-size: 12px;
+	border: 2px solid;
+	border-radius: 8px;
+	background-color: #fff;
+	box-sizing: border-box;
+	white-space: normal;
+	word-break: break-word;
+	color: #333;
+	overflow: hidden;
+	position: relative;
+}
+
+.card-widget .card-widget__content-wrapper {
+	height: 100%;
+	padding: 0 16px;
+	display: flex;
+	flex-direction: column;
+}
+
+.card-widget .card-widget__content-wrapper div + div {
+	justify-content: space-between;
+}
+
+.card-widget .card-widget__content-fill {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	pointer-events: none;
+}
+
+.card-widget_bottom-container {
+	display: flex;
+	align-items: center;
+}
+
+.card-widget .title {
+	font-size: 16px;
+	line-height: 1.43;
+	overflow: hidden;
+}
+
+.card-widget .title p {
+	margin: 0;
+}
+
+.card-widget__logo {
+	align-self: flex-start;
+	width: 24px;
+	height: 24px;
+}
+
+.card-widget .tags-container .tag,
+.card-widget .tagView {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+	height: 24px;
+	border-radius: 4px;
+	vertical-align: top;
+	margin-right: 7px;
+	margin-bottom: 7px;
+}
+
+.card-widget .tags-container .tag:last-child,
+.card-widget .tagView:last-child {
+	margin-right: 0;
+}
+
+.card-widget .tags-container .tag.label,
+.card-widget .tagView__content {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-align: center;
+	font-size: 12px;
+	line-height: 1.5;
+	color: #fff;
+}
+
+.card-widget .tagView {
+	padding: 4px 8px;
+}
+
+.card-widget .tagView.tagView--icon {
+	padding: 4px;
+	justify-content: flex-start;
+}
+
+.card-widget .tagView__img.tagView__img--rounded {
+	border-radius: 50%;
+}
+
+.card-widget .tagView__img + .tagView__content {
+	margin-left: 4px;
+	padding-right: 4px;
+}
+
+.card-widget .tagView__img {
+	width: 16px;
+	height: 16px;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+</style><path id="LineHeadArrow2" d="M-12.727272727272727,-7.545454545454545 L0,0 L-12.727272727272727,7.545454545454545 Z"></path><filter x="-50%" y="-50%" width="200%" height="200%" id="StickerShadowFilter">
+				<feOffset result="offOut" in="SourceGraphic" dx="1" dy="3" />
+      			<feGaussianBlur result="blurOut" in="offOut" stdDeviation="3" />
+			</filter><path id="StickerType2Path" d="M.01 1C.004.45.444.005 1.01.01l410.98 3.98c.558.006 1.015.46 1.02 1.017l3.98 396.986c.005.556-.434 1.007-1 1.007H5.01c-.558 0-1.015-.455-1.02-1L.01 1z"/><g id="StickerType2" fill-rule="evenodd">
+					<path d="M.01 1C.004.45.444.005 1.01.01l410.98 3.98c.558.006 1.015.46 1.02 1.017l3.98 396.986c.005.556-.434 1.007-1 1.007H5.01c-.558 0-1.015-.455-1.02-1L.01 1z" fill-opacity=".12" fill="#000" filter="url(#StickerShadowFilter)" transform="translate(1, 3)" />
+					<g><use fill="inherit" xlink:href="#StickerType2Path"/></g>
+				</g></defs><rect id="svg-board-background-color" width="100%" height="100%" fill="#f2f2f2"></rect><image href="data:image/svg+xml;utf8,%3Csvg%0A%09width%3D%2212780.857877046881%22%0A%09height%3D%223934.0375853088617%22%0A%09shape-border-width%3D%22shape-background%22%0A%09style%3D%22width%3A12780.857877046881px%3B%20height%3A%203934.0375853088617px%3B%22%0A%09class%3D%22shape-background%22%0A%09preserveAspectRatio%3D%22none%22%0A%09version%3D%221.1%22%0A%09xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%3E%0A%09%3CclipPath%20id%3D%22835553826358%22%3E%0A%09%09%3Crect%0A%09%09%09x%3D%220%22%0A%09%09%09y%3D%220%22%0A%09%09%09width%3D%2212780.857877046881%22%0A%09%09%09height%3D%223934.0375853088617%22%0A%09%09%09rx%3D%220%22%0A%09%09%09ry%3D%220%22%0A%09%09%3E%3C%2Frect%3E%0A%09%3C%2FclipPath%3E%0A%09%3Cg%20id%3D%22Page-1%22%20stroke%3D%22none%22%20stroke-width%3D%220%22%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%0A%09%09%3Crect%0A%09%09%09class%3D%22shape-element%20shape-element-rect%22%0A%09%09%09stroke%3D%22%23000000%22%0A%09%09%09stroke-width%3D%220%22%0A%09%09%09stroke-dasharray%3D%22%22%0A%09%09%09stroke-opacity%3D%22%22%0A%09%09%09fill%3D%22%23ffffff%22%0A%09%09%09fill-opacity%3D%22%22%0A%09%09%09x%3D%220%22%0A%09%09%09y%3D%220%22%0A%09%09%09width%3D%2212780.857877046881%22%0A%09%09%09height%3D%223934.0375853088617%22%0A%09%09%09rx%3D%220%22%0A%09%09%09ry%3D%220%22%0A%09%09%09clip-path%3D%22url(%23835553826358)%22%0A%09%09%3E%3C%2Frect%3E%0A%09%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A" width="12780.86px" height="3934.04px" data-frame="true" preserveAspectRatio="none" data-frame-id="3458764667027395484" transform="translate(-0.51, 1.15) scale(1) rotate(0, 6390.43, 1967.02)" /><g width="12157.09px" height="931.35px"  transform="translate(459.17, 2085.49) scale(1) rotate(0, 6078.545, 465.675)"><svg
+	width="12157.088427901886"
+	height="931.3452223500426"
+	shape-border-width="shape-background"
+	style="width:12157.088427901886px; height: 931.3452223500426px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1411560428868">
+		<rect
+			x="0"
+			y="0"
+			width="12157.088427901886"
+			height="931.3452223500426"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#f8f8f8"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="12157.088427901886"
+			height="931.3452223500426"
+			rx="0"
+			ry="0"
+			clip-path="url(#1411560428868)"
+		></rect>
+	</g>
+</svg>
+</g><g width="12157.09px" height="931.35px"  transform="translate(459.17, 2085.49) rotate(0, 6078.545, 465.675)"><g transform="translate(46.567261117502134, 46.567261117502134)"></g></g><g width="12157.09px" height="931.35px"  transform="translate(459.17, 1036.82) scale(1) rotate(0, 6078.545, 465.675)"><svg
+	width="12157.088427901886"
+	height="931.3452223500426"
+	shape-border-width="shape-background"
+	style="width:12157.088427901886px; height: 931.3452223500426px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="978541072030">
+		<rect
+			x="0"
+			y="0"
+			width="12157.088427901886"
+			height="931.3452223500426"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#f8f8f8"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="12157.088427901886"
+			height="931.3452223500426"
+			rx="0"
+			ry="0"
+			clip-path="url(#978541072030)"
+		></rect>
+	</g>
+</svg>
+</g><g width="12157.09px" height="931.35px"  transform="translate(459.17, 1036.82) rotate(0, 6078.545, 465.675)"><g transform="translate(46.567261117502134, 46.567261117502134)"></g></g><g width="2055.75px" height="503.77px"  transform="translate(459.17, 452.87) scale(1) rotate(0, 1027.875, 251.885)"><svg
+	width="2055.750514542472"
+	height="503.7713157058388"
+	shape-border-width="shape-background"
+	style="width:2055.750514542472px; height: 503.7713157058388px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1553550600074">
+		<rect
+			x="0"
+			y="0"
+			width="2055.750514542472"
+			height="503.7713157058388"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#e6ecff"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="2055.750514542472"
+			height="503.7713157058388"
+			rx="0"
+			ry="0"
+			clip-path="url(#1553550600074)"
+		></rect>
+	</g>
+</svg>
+</g><g width="2055.75px" height="503.77px"  transform="translate(459.17, 452.87) rotate(0, 1027.875, 251.885)"><g transform="translate(25.188565785291942, 25.188565785291942)"><text xml:space="preserve" x="751.0167467227604" y="163.69709206762747" width="503.3398895263672" textLength="503.3398895263672" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Pre LOP Creation</text><text xml:space="preserve" x="10.376899921002632" y="245.69709206762747" width="2000.2195739746094" textLength="2000.2195739746094" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" >A coordinated effort between partners, client development teams, and </text><text xml:space="preserve" x="415.2268373599675" y="327.69709206762747" width="1174.9197082519531" textLength="1174.9197082519531" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" >practices to identify and vet opportunities</text></g></g><g width="8148.12px" height="486.27px"  transform="translate(2595.6, 452.87) scale(1) rotate(0, 4074.06, 243.135)"><svg
+	width="8148.12269825512"
+	height="486.26535798152145"
+	shape-border-width="shape-background"
+	style="width:8148.12269825512px; height: 486.26535798152145px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="840549382521">
+		<rect
+			x="0"
+			y="0"
+			width="8148.12269825512"
+			height="486.26535798152145"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#e6ecff"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="8148.12269825512"
+			height="486.26535798152145"
+			rx="0"
+			ry="0"
+			clip-path="url(#840549382521)"
+		></rect>
+	</g>
+</svg>
+</g><g width="8148.12px" height="486.27px"  transform="translate(2595.6, 452.87) rotate(0, 4074.06, 243.135)"><g transform="translate(24.313267899076074, 24.313267899076074)"><text xml:space="preserve" x="3797.8381233427417" y="196.81941109168466" width="503.8199157714844" textLength="503.8199157714844" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Defining the LOP</text><text xml:space="preserve" x="3070.3683052275073" y="278.81941109168463" width="1958.7595520019531" textLength="1958.7595520019531" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" >Partner begins client outreach and starts planning for a potential LOP</text></g></g><g width="1819.79px" height="503.77px"  transform="translate(10796.47, 435.36) scale(1) rotate(0, 909.895, 251.885)"><svg
+	width="1819.790525925869"
+	height="503.7713157058388"
+	shape-border-width="shape-background"
+	style="width:1819.790525925869px; height: 503.7713157058388px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="978314765330">
+		<rect
+			x="0"
+			y="0"
+			width="1819.790525925869"
+			height="503.7713157058388"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#e6ecff"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="1819.790525925869"
+			height="503.7713157058388"
+			rx="0"
+			ry="0"
+			clip-path="url(#978314765330)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1819.79px" height="503.77px"  transform="translate(10796.47, 435.36) rotate(0, 909.895, 251.885)"><g transform="translate(25.188565785291942, 25.188565785291942)"><text xml:space="preserve" x="660.6667496678768" y="163.69709206762747" width="448.07989501953125" textLength="448.07989501953125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">LOP Generated</text><text xml:space="preserve" x="115.26687784170497" y="245.69709206762747" width="1554.4796295166016" textLength="1554.4796295166016" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" >Partner pulls together resources and support to create </text><text xml:space="preserve" x="639.8467423436581" y="327.69709206762747" width="489.71990966796875" textLength="489.71990966796875" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" >winning proposal</text></g></g><g width="12279.22px" height="354.1px"  transform="translate(447.04, 3134.18) scale(1) rotate(0, 6139.61, 177.05)"><svg
+	width="12279.219511326603"
+	height="354.10080636386283"
+	shape-border-width="shape-background"
+	style="width:12279.219511326603px; height: 354.10080636386283px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="648113621333">
+		<rect
+			x="0"
+			y="0"
+			width="12279.219511326603"
+			height="354.10080636386283"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#e6ecff"
+			fill-opacity="0.3"
+			x="0"
+			y="0"
+			width="12279.219511326603"
+			height="354.10080636386283"
+			rx="0"
+			ry="0"
+			clip-path="url(#648113621333)"
+		></rect>
+	</g>
+</svg>
+</g><g width="12279.22px" height="354.1px"  transform="translate(447.04, 3134.18) rotate(0, 6139.61, 177.05)"><g transform="translate(17.70504031819314, 17.70504031819314)"></g></g><g width="8148.39px" height="142.42px"  transform="translate(2595.6, 198.52) scale(1) rotate(0, 4074.195, 71.21)"><svg
+	width="8148.393886031238"
+	height="142.4192878170144"
+	shape-border-width="shape-background"
+	style="width:8148.393886031238px; height: 142.4192878170144px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="72491460656">
+		<rect
+			x="0"
+			y="0"
+			width="8148.393886031238"
+			height="142.4192878170144"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#051c2c"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="8148.393886031238"
+			height="142.4192878170144"
+			rx="0"
+			ry="0"
+			clip-path="url(#72491460656)"
+		></rect>
+	</g>
+</svg>
+</g><g width="8148.39px" height="142.42px"  transform="translate(2595.6, 198.52) rotate(0, 4074.195, 71.21)"><g transform="translate(7.1209643908507205, 7.1209643908507205)"><text xml:space="preserve" x="3960.3884786247686" y="85.58867951765649" width="213.375" textLength="213.375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Arial", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="48" 
+				fill="#f1f282" direction="ltr" font-weight="bold">DISCUSS</text></g></g><g width="1840.38px" height="142.42px"  transform="translate(10796.47, 198.52) scale(1) rotate(0, 920.19, 71.21)"><svg
+	width="1840.377106198862"
+	height="142.4192878170144"
+	shape-border-width="shape-background"
+	style="width:1840.377106198862px; height: 142.4192878170144px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1688077773012">
+		<rect
+			x="0"
+			y="0"
+			width="1840.377106198862"
+			height="142.4192878170144"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#051c2c"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="1840.377106198862"
+			height="142.4192878170144"
+			rx="0"
+			ry="0"
+			clip-path="url(#1688077773012)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1840.38px" height="142.42px"  transform="translate(10796.47, 198.52) rotate(0, 920.19, 71.21)"><g transform="translate(7.1209643908507205, 7.1209643908507205)"><text xml:space="preserve" x="794.3683699585803" y="85.58867951765649" width="237.3984375" textLength="237.3984375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Arial", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="48" 
+				fill="#f1f282" direction="ltr" font-weight="bold">PROPOSE</text></g></g><g width="2055.75px" height="142.42px"  transform="translate(459.17, 198.52) scale(1) rotate(0, 1027.875, 71.21)"><svg
+	width="2055.7505145424752"
+	height="142.4192878170144"
+	shape-border-width="shape-background"
+	style="width:2055.7505145424752px; height: 142.4192878170144px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1769765194898">
+		<rect
+			x="0"
+			y="0"
+			width="2055.7505145424752"
+			height="142.4192878170144"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#051c2c"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="2055.7505145424752"
+			height="142.4192878170144"
+			rx="0"
+			ry="0"
+			clip-path="url(#1769765194898)"
+		></rect>
+	</g>
+</svg>
+</g><g width="2055.75px" height="142.42px"  transform="translate(459.17, 198.52) rotate(0, 1027.875, 71.21)"><g transform="translate(7.1209643908507205, 7.1209643908507205)"><text xml:space="preserve" x="906.0628866303869" y="85.58867951765649" width="229.3828125" textLength="229.3828125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Arial", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="48" 
+				fill="#f1f282" direction="ltr" font-weight="bold">EXPLORE</text></g></g><g width="278.55px" height="88px"  transform="translate(474.48, 3194.96) scale(2.533333333333331) rotate(0, 139.275, 44)">
+		<svg xmlns="http://www.w3.org/2000/svg" width="279" height="88">
+		<style type="text/css"><![CDATA[   ]]></style>
+		<foreignObject width="100%" height="100%">
+			<div xmlns="http://www.w3.org/1999/xhtml"  width="279" height="88" ><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div class="card-widget" style="&#10;&#9;&#9;width: 278.5477px;&#10;&#9;&#9;height: 88px;&#10;&#9;&#9;border-color: #051c2c;&#10;&#9;&#9;border-bottom: 6px solid #051c2c;&#10;&#9;&#9;font-family: 'Noto Sans', Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR;&#10;&#9;">
+	<div class="card-widget__content-fill" style="opacity: 0.08; background-color: transparent"></div>
+	<div class="card-widget__content-wrapper"><div class="title" style="height: 23px;margin-top: 13px"><p>RFP</p></div><div class="card-widget_bottom-container" style="margin-top:10px"><div class="tags-container"><span class="tagView tagView--icon" style="background-color: #f1f2f5;"><img alt="" class="tagView__img" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik00LjY2Njc1IDZIMTUuMzMzNE00LjY2Njc1IDEwSDE1LjMzMzRNNC42NjY3NSAxNEgxMS4wNjY3IiBzdHJva2U9IiM1NTVBNkEiIHN0cm9rZS13aWR0aD0iMS4zMzMzMyIKICAgICAgICAgIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiLz4KPC9zdmc+Cg==" /></span><span class="tag label" style="width:62.9879150390625px;background-color:#a8e9ff">Required</span></div></div></div>
+</div>
+<style>body {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+svg {
+	font-kerning: normal;
+}
+
+a {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+	display: inline;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 30px;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+/* copy from editor/svg.less */
+.editor-editfield ul,
+.editor-editfield ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 9px;
+}
+.editor-editfield p {
+	margin: 0;
+	padding: 0;
+}
+.editor-editfield a {
+	display: inline;
+	color: var(--colors-blue-450);
+	text-decoration: underline;
+	word-break: break-all;
+}
+.editor-editfield a:hover {
+	color: var(--colors-blue-450);
+}
+.editor-editfield.disable-bold,
+.editor-editfield.disable-bold strong,
+.editor-editfield.disable-bold b {
+	font-weight: normal !important;
+}
+.editor-editfield.disable-italic,
+.editor-editfield.disable-italic em,
+.editor-editfield.disable-italic i {
+	font-style: normal !important;
+}
+.editor-editfield li::before {
+	display: inline-block;
+	box-sizing: border-box;
+	white-space: nowrap;
+	width: 28px;
+}
+.editor-editfield ol &gt; li,
+.editor-editfield ul &gt; li {
+	list-style-type: none;
+}
+.editor-editfield ul &gt; li::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='bullet']::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='ordered']:not(:global(.ql-direction-rtl))::before {
+	text-align: right;
+}
+.editor-editfield ul &gt; li:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield ol &gt; li[data-list='bullet']:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield li:not(:global(.ql-direction-rtl))::before {
+	margin-left: -28px;
+	padding-right: 4.2px;
+}
+.editor-editfield ol li:not(:global(.ql-direction-rtl)),
+.editor-editfield ul li:not(:global(.ql-direction-rtl)) {
+	padding-left: 21px;
+}
+.editor-editfield :global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 42px;
+}
+.editor-editfield li:global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 63px;
+}
+.editor-editfield :global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 42px;
+}
+.editor-editfield li:global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 63px;
+}
+.editor-editfield :global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 84px;
+}
+.editor-editfield li:global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 105px;
+}
+.editor-editfield :global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 84px;
+}
+.editor-editfield li:global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 105px;
+}
+.editor-editfield :global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 126px;
+}
+.editor-editfield li:global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 147px;
+}
+.editor-editfield :global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 126px;
+}
+.editor-editfield li:global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 147px;
+}
+.editor-editfield :global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 168px;
+}
+.editor-editfield li:global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 189px;
+}
+.editor-editfield :global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 168px;
+}
+.editor-editfield li:global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 189px;
+}
+.editor-editfield :global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 210px;
+}
+.editor-editfield li:global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 231px;
+}
+.editor-editfield :global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 210px;
+}
+.editor-editfield li:global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 231px;
+}
+.editor-editfield :global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 252px;
+}
+.editor-editfield li:global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 273px;
+}
+.editor-editfield :global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 252px;
+}
+.editor-editfield li:global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 273px;
+}
+.editor-editfield :global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 294px;
+}
+.editor-editfield li:global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 315px;
+}
+.editor-editfield :global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 294px;
+}
+.editor-editfield li:global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 315px;
+}
+.editor-editfield :global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 336px;
+}
+.editor-editfield li:global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 357px;
+}
+.editor-editfield :global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 336px;
+}
+.editor-editfield li:global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 357px;
+}
+.editor-editfield :global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 378px;
+}
+.editor-editfield li:global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 399px;
+}
+.editor-editfield :global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 378px;
+}
+.editor-editfield li:global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 399px;
+}
+.editor-editfield ol [data-list='ordered'] {
+	counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+	counter-increment: list-num;
+}
+.editor-editfield ol li[data-list='ordered']:before {
+	content: counter(list-num, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1) {
+	counter-increment: list-1;
+	counter-reset: list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1):before {
+	content: counter(list-1, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2) {
+	counter-increment: list-2;
+	counter-reset: list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2):before {
+	content: counter(list-2, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3) {
+	counter-increment: list-3;
+	counter-reset: list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3):before {
+	content: counter(list-3, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4) {
+	counter-increment: list-4;
+	counter-reset: list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4):before {
+	content: counter(list-4, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5) {
+	counter-increment: list-5;
+	counter-reset: list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5):before {
+	content: counter(list-5, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6) {
+	counter-increment: list-6;
+	counter-reset: list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6):before {
+	content: counter(list-6, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7) {
+	counter-increment: list-7;
+	counter-reset: list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7):before {
+	content: counter(list-7, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8) {
+	counter-increment: list-8;
+	counter-reset: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8):before {
+	content: counter(list-8, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9) {
+	counter-increment: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9):before {
+	content: counter(list-9, decimal) '. ';
+}
+</style></body></html></div>
+		</foreignObject>
+		</svg>
+</g><g width="269.37px" height="951.79px"  transform="translate(147.27, 1036.82) scale(1) rotate(0, 134.685, 475.895)"><svg
+	width="269.3675379261977"
+	height="951.7889996806282"
+	style="width:269.3675379261977px; height: 951.7889996806282px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1091615494657">
+		<path d="M253.3675379261977,475.8944998403141 C257.3675379261977,477.8944998403141 260.3675379261977,480.8944998403141 260.3675379261977,485.8944998403141 L260.3675379261977,939.7889996806282 C260.3675379261977,944.7889996806282 264.3675379261977,948.7889996806282 269.3675379261977,948.7889996806282 L269.3675379261977,950.7889996806282 L269.3675379261977,950.7889996806282 C263.3675379261977,950.7889996806282 258.3675379261977,946.7889996806282 258.3675379261977,940.7889996806282 L258.3675379261977,485.8944998403141 C258.3675379261977,480.8944998403141 254.3675379261977,476.89449984031404 249.3675379261977,476.89449984031404 L249.3675379261977,474.8944998403141 C254.3675379261977,474.8944998403141 258.3675379261977,470.8944998403141 258.3675379261977,465.8944998403141 L258.3675379261977,11 C258.3675379261977,6 263.3675379261977,0.9999999999999999 269.3675379261977,0.9999999999999999 L269.3675379261977,0.9999999999999999 L269.3675379261977,3 C264.3675379261977,3 260.3675379261977,7 260.3675379261977,12 L260.3675379261977,465.8944998403141 C260.3675379261977,470.8944998403141 257.3675379261977,473.8944998403141 253.3675379261977,475.8944998403141"></path>
+	</clipPath>
+	<g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<path
+			d="M253.3675379261977,475.8944998403141 C257.3675379261977,477.8944998403141 260.3675379261977,480.8944998403141 260.3675379261977,485.8944998403141 L260.3675379261977,939.7889996806282 C260.3675379261977,944.7889996806282 264.3675379261977,948.7889996806282 269.3675379261977,948.7889996806282 L269.3675379261977,950.7889996806282 L269.3675379261977,950.7889996806282 C263.3675379261977,950.7889996806282 258.3675379261977,946.7889996806282 258.3675379261977,940.7889996806282 L258.3675379261977,485.8944998403141 C258.3675379261977,480.8944998403141 254.3675379261977,476.89449984031404 249.3675379261977,476.89449984031404 L249.3675379261977,474.8944998403141 C254.3675379261977,474.8944998403141 258.3675379261977,470.8944998403141 258.3675379261977,465.8944998403141 L258.3675379261977,11 C258.3675379261977,6 263.3675379261977,0.9999999999999999 269.3675379261977,0.9999999999999999 L269.3675379261977,0.9999999999999999 L269.3675379261977,3 C264.3675379261977,3 260.3675379261977,7 260.3675379261977,12 L260.3675379261977,465.8944998403141 C260.3675379261977,470.8944998403141 257.3675379261977,473.8944998403141 253.3675379261977,475.8944998403141"
+			class="shape-element shape-element-path"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			clip-path="url(#1091615494657)"
+		></path>
+	</g>
+</svg>
+</g><g width="269.37px" height="951.79px"  transform="translate(147.27, 1036.82) rotate(0, 134.685, 475.895)"><g transform="translate(13.468376896309886, 47.58944998403141)"><text xml:space="preserve" x="0" y="390.80504985628266" width="137.6015625" textLength="137.6015625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"OpenSans", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Partner</text><text xml:space="preserve" x="0" y="439.80504985628266" width="212.90625" textLength="212.90625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"OpenSans", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Activities &amp; </text><text xml:space="preserve" x="0" y="488.80504985628266" width="222.205078125" textLength="222.205078125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"OpenSans", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Touchpoints</text></g></g><g width="931.37px" height="145.1px"  transform="translate(482.34, 1335.06) scale(1) rotate(0, 465.685, 72.55)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #000000;fill-opacity: 1"><rect x="0" y="0" width="931.3678657987796" height="145.10165542117502" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><rect transform="translate(49.784007667456194, 29.050827710587512)" width="799.7998504638672" height="55" fill="transparent" ></rect><text xml:space="preserve" x="49.784007667456194" y="69.05082771058751" width="799.7998504638672" textLength="799.7998504638672" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Identification of potential opportunities</text></g></g><g width="796.9px" height="142.57px"  transform="translate(1645.67, 1337.59) scale(1) rotate(0, 398.45, 71.285)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #000000;fill-opacity: 1"><rect x="0" y="0" width="796.8993014924648" height="142.56949551427186" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="56.32973192299022" y="40.28474775713593" width="662.6398315429688" textLength="662.6398315429688" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Exploration and discussions with </text><text xml:space="preserve" x="326.56966112220897" y="95.28474775713593" width="111.75997924804688" textLength="111.75997924804688" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">client</text></g></g><g width="539.68px" height="157.09px"  transform="translate(2671.44, 1329.07) scale(1) rotate(0, 269.84, 78.545)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #000000;fill-opacity: 1"><rect x="0" y="0" width="539.6805314277516" height="157.0875682556758" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="68.80031057471564" y="40" width="380.4799041748047" textLength="380.4799041748047" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Collaboration with </text><text xml:space="preserve" x="25.62032552832892" y="95" width="466.8398742675781" textLength="466.8398742675781" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Practice managers and </text><text xml:space="preserve" x="58.320314847176576" y="150" width="401.4398956298828" textLength="401.4398956298828" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Proposal Excellence </text></g></g><g width="228.87px" height="1.27px"  transform="translate(2442.57, 1407.61) scale(1) rotate(0, 114.435, 0.635)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 1.2660799534514808 L 113.80187308528457 1.2660799534514808 Q 114.43491306201031 1.2660799534514808 114.43491306201031 0.6330399767257404 L 114.43491306201031 0.6330399767257404 Q 114.43491306201031 0 115.06795303873605 0 L 218.68800794220243 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(228.86982612402062, 0)  rotate(0) "  /> </g><g width="231.97px" height="1.27px"  transform="translate(1413.7, 1407.61) scale(1) rotate(0, 115.985, 0.635)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 C 88.71516643515497 0 133.069135904203 1.2660799534514808 221.78430233935796 1.2660799534514808" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(231.96612052117416, 1.2660799534514808)  rotate(0) "  /> </g><g width="161.85px" height="0px"  transform="translate(3211.12, 1424.58) scale(1) rotate(0, 80.925, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 151.67262649732385 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(161.85444467914203, 0)  rotate(0) "  /> </g><g width="527.76px" height="157.09px"  transform="translate(3373.67, 1329.07) scale(1) rotate(0, 263.88, 78.545)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="527.7566094531503" height="157.08756825567593" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="40.85835385987593" y="40" width="424.4398956298828" textLength="424.4398956298828" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Uploads RFP and any </text><text xml:space="preserve" x="3.2183468408329645" y="95" width="489.3199157714844" textLength="489.3199157714844" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">background information</text></g></g><g width="231.51px" height="0px"  transform="translate(3901.43, 1424.58) scale(1) rotate(0, 115.755, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 221.3322918705506 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(231.51411005237605, 0)  rotate(0) "  /> </g><g width="461.76px" height="178.64px"  transform="translate(4133.94, 1329.07) scale(1) rotate(0, 230.88, 89.32)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="461.7628053497613" height="178.63566844473092" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="92.40145272370879" y="58.31783422236546" width="255.35989379882812" textLength="255.35989379882812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Reviews RFP </text><text xml:space="preserve" x="119.52141732331816" y="113.31783422236546" width="190.719970703125" textLength="190.719970703125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Summary</text></g></g><g width="461.76px" height="273.56px"  transform="translate(4133.94, 1533.49) scale(1) rotate(0, 230.88, 136.78)"><svg
+	width="461.76280534975837"
+	height="273.56367064879265"
+	shape-border-width="shape-background"
+	style="width:461.76280534975837px; height: 273.56367064879265px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1635236657537">
+		<rect
+			x="0"
+			y="0"
+			width="461.76280534975837"
+			height="273.56367064879265"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#e6ecff"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="461.76280534975837"
+			height="273.56367064879265"
+			rx="0"
+			ry="0"
+			clip-path="url(#1635236657537)"
+		></rect>
+	</g>
+</svg>
+</g><g width="461.76px" height="273.56px"  transform="translate(4133.94, 1533.49) rotate(0, 230.88, 136.78)"><g transform="translate(13.678183532439633, 13.678183532439633)"><text xml:space="preserve" x="86.73328658628719" y="71.1036517919567" width="260.9398651123047" textLength="260.9398651123047" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Nudge to Partner</text><text xml:space="preserve" x="0.8733317523028177" y="112.1036517919567" width="440.4597625732422" textLength="440.4597625732422" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >&quot;We recommend you to have a </text><text xml:space="preserve" x="42.36332198667782" y="153.10365179195668" width="357.4797821044922" textLength="357.4797821044922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >team discussion with the </text><text xml:space="preserve" x="165.39323684263485" y="194.10365179195668" width="103.61996459960938" textLength="103.61996459960938" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >expert&quot;</text></g></g><g width="231.51px" height="0px"  transform="translate(4595.7, 1424.58) scale(1) rotate(0, 115.755, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 221.3322918705506 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(231.51411005237605, 0)  rotate(0) "  /> </g><g width="487.04px" height="273.56px"  transform="translate(4828.7, 1329.07) scale(1) rotate(0, 243.52, 136.78)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="487.0412856592908" height="273.5636706487927" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="31.80070264409852" y="50.781835324396354" width="401.8398742675781" textLength="401.8398742675781" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Validates Key Dates </text><text xml:space="preserve" x="29.320729804743053" y="105.78183532439635" width="406.79981994628906" textLength="406.79981994628906" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" >(if extracted from the </text><text xml:space="preserve" x="57.82070691655946" y="160.78183532439635" width="349.79986572265625" textLength="349.79986572265625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" >RFP else take user </text><text xml:space="preserve" x="172.12067182134462" y="215.78183532439635" width="110.79994201660156" textLength="110.79994201660156" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" >input)</text></g></g><g width="428.48px" height="178.64px"  transform="translate(4828.7, 1625.24) scale(1) rotate(0, 214.24, 89.32)"><svg
+	width="428.47584752537324"
+	height="178.6356684447308"
+	shape-border-width="shape-background"
+	style="width:428.47584752537324px; height: 178.6356684447308px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1757383539376">
+		<rect
+			x="0"
+			y="0"
+			width="428.47584752537324"
+			height="178.6356684447308"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#e6ecff"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="428.47584752537324"
+			height="178.6356684447308"
+			rx="0"
+			ry="0"
+			clip-path="url(#1757383539376)"
+		></rect>
+	</g>
+</svg>
+</g><g width="428.48px" height="178.64px"  transform="translate(4828.7, 1625.24) rotate(0, 214.24, 89.32)"><g transform="translate(8.93178342223654, 8.93178342223654)"><text xml:space="preserve" x="0" y="30" width="376.4397735595703" textLength="376.4397735595703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >1. Pre-​bid clarification date</text><text xml:space="preserve" x="0" y="71" width="397.6797790527344" textLength="397.6797790527344" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >2. Proposal Submission date</text><text xml:space="preserve" x="0" y="112" width="283.43983459472656" textLength="283.43983459472656" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >3. Presentation date</text><text xml:space="preserve" x="0" y="153" width="223.58987426757812" textLength="223.58987426757812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >4. Decision date</text></g></g><g width="172.95px" height="4.84px"  transform="translate(5315.74, 1424.58) scale(1) rotate(0, 86.475, 2.42)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 4.838417416634442 L 84.0551272509149 4.838417416634442 Q 86.47433595923212 4.838417416634442 86.47433595923212 2.419208708317221 L 86.47433595923212 2.419208708317221 Q 86.47433595923212 0 88.89354466754935 0 L 162.76685373663878 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(172.9486719184497, 0)  rotate(0) "  /> </g><g width="487.04px" height="296.17px"  transform="translate(5490.18, 1329.07) scale(1) rotate(0, 243.52, 148.085)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="487.0412856592942" height="296.1729761349231" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="7.560697150936164" y="62.086488067461545" width="439.9198913574219" textLength="439.9198913574219" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Validate Classification</text><text xml:space="preserve" x="29.320729804744758" y="117.08648806746154" width="406.79981994628906" textLength="406.79981994628906" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" >(if extracted from the </text><text xml:space="preserve" x="57.820706916561164" y="172.08648806746154" width="349.79986572265625" textLength="349.79986572265625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" >RFP else take user </text><text xml:space="preserve" x="172.12067182134632" y="227.08648806746154" width="110.79994201660156" textLength="110.79994201660156" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" >input)</text></g></g><g width="165.91px" height="0px"  transform="translate(5977.22, 1432.02) scale(1) rotate(0, 82.955, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 155.72451789853022 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(165.9063360803484, 0)  rotate(0) "  /> </g><g width="408.09px" height="154px"  transform="translate(6151.22, 1370.23) scale(1) rotate(0, 204.045, 77)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="408.09113461788604" height="153.99808095443933" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="17.665608202497708" y="45.999040477219665" width="351.159912109375" textLength="351.159912109375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Ask Qualification </text><text xml:space="preserve" x="87.04559019712661" y="100.99904047721967" width="201.9999542236328" textLength="201.9999542236328" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Questions</text></g></g><g width="231.51px" height="0px"  transform="translate(6559.26, 1433.25) scale(1) rotate(0, 115.755, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 221.3322918705506 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(231.51411005237605, 0)  rotate(0) "  /> </g><g width="428.48px" height="202.02px"  transform="translate(6791.57, 1356.61) scale(1) rotate(0, 214.24, 101.01)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="428.4758475253668" height="202.01624103521198" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="139.43793596971466" y="42.50812051760599" width="127.99996948242188" textLength="127.99996948242188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Invite </text><text xml:space="preserve" x="20.357964656238096" y="97.50812051760599" width="366.159912109375" textLength="366.159912109375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Collaborators and </text><text xml:space="preserve" x="81.79795946824981" y="152.508120517606" width="232.8799285888672" textLength="232.8799285888672" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Key Experts</text></g></g><g width="179.01px" height="0.17px"  transform="translate(7220.24, 1433.25) scale(1) rotate(0, 89.505, 0.085)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 89.41971149285752 0 Q 89.5032724223638 0 89.5032724223638 0.08356092950629801 L 89.5032724223638 0.08356092950629801 Q 89.5032724223638 0.16712185901259602 89.5868333518701 0.16712185901259602 L 168.82472666290943 0.16712185901259602" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(179.0065448447276, 0.16712185901246812)  rotate(0) "  /> </g><g width="373.31px" height="146.9px"  transform="translate(7399.25, 1359.97) scale(1) rotate(0, 186.655, 73.45)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="373.3124288963053" height="146.89550150622702" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="2.096247407137014" y="69.94775075311351" width="337.11993408203125" textLength="337.11993408203125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Add Competitors</text></g></g><g width="203.03px" height="0.17px"  transform="translate(7772.56, 1433.25) scale(1) rotate(0, 101.515, 0.085)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0.1671218590128234 L 101.43198060560456 0.1671218590128234 Q 101.51554153511097 0.1671218590128234 101.51554153511097 0.0835609295064117 L 101.51554153511097 0.0835609295064117 Q 101.51554153511097 0 101.59910246461737 0 L 192.84926488840375 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(203.03108307022194, 0)  rotate(0) "  /> </g><g width="408.09px" height="257.04px"  transform="translate(7977.08, 1329.07) scale(1) rotate(0, 204.045, 128.52)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="408.09113461788917" height="257.0412277131324" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="53.42560270933521" y="40" width="279.6399230957031" textLength="279.6399230957031" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Validates and </text><text xml:space="preserve" x="55.325604235214115" y="95" width="275.8399200439453" textLength="275.8399200439453" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">identifies the </text><text xml:space="preserve" x="49.625599657577396" y="150" width="287.23992919921875" textLength="287.23992919921875" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">value and win </text><text xml:space="preserve" x="4.445614611190678" y="205" width="367.1999053955078" textLength="367.1999053955078" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">themes generated</text><text xml:space="preserve" x="59.22559813169849" y="260" width="257.6399383544922" textLength="257.6399383544922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">from the RFP</text></g></g><g width="408.09px" height="215.34px"  transform="translate(7977.08, 1609.75) scale(1) rotate(0, 204.045, 107.67)"><svg
+	width="408.0911346178817"
+	height="215.3407201355803"
+	shape-border-width="shape-background"
+	style="width:408.0911346178817px; height: 215.3407201355803px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="423653537572">
+		<rect
+			x="0"
+			y="0"
+			width="408.0911346178817"
+			height="215.3407201355803"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#e6ecff"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="408.0911346178817"
+			height="215.3407201355803"
+			rx="0"
+			ry="0"
+			clip-path="url(#423653537572)"
+		></rect>
+	</g>
+</svg>
+</g><g width="408.09px" height="215.34px"  transform="translate(7977.08, 1609.75) rotate(0, 204.045, 107.67)"><g transform="translate(10.767036006779016, 10.767036006779016)"><text xml:space="preserve" x="62.808598746009494" y="65.40332406101115" width="260.9398651123047" textLength="260.9398651123047" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Nudge to Partner</text><text xml:space="preserve" x="23.058614004798557" y="106.40332406101115" width="348.2398223876953" textLength="348.2398223876953" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >&quot;Discuss and agree your </text><text xml:space="preserve" x="67.15860484952512" y="147.40332406101115" width="252.23985290527344" textLength="252.23985290527344" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Day 1 hypothesis&quot;</text></g></g><g width="231.51px" height="0px"  transform="translate(8385.17, 1433.25) scale(1) rotate(0, 115.755, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 221.3322918705506 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(231.51411005236878, 0)  rotate(0) "  /> </g><g width="528.79px" height="199.39px"  transform="translate(8618.17, 1329.07) scale(1) rotate(0, 264.395, 99.695)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="528.7931109582837" height="199.3889572282876" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="9.016604002091071" y="68.6944786141438" width="489.15989685058594" textLength="489.15989685058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Validates the content of </text><text xml:space="preserve" x="121.1165872174231" y="123.6944786141438" width="264.9599304199219" textLength="264.9599304199219" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">the storyline </text></g></g><g width="528.79px" height="376.68px"  transform="translate(8618.17, 1551.53) scale(1) rotate(0, 264.395, 188.34)"><svg
+	width="528.7931109582756"
+	height="376.67941551982244"
+	shape-border-width="shape-background"
+	style="width:528.7931109582756px; height: 376.67941551982244px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="336967786093">
+		<rect
+			x="0"
+			y="0"
+			width="528.7931109582756"
+			height="376.67941551982244"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="#e6ecff"
+			fill-opacity="1"
+			x="0"
+			y="0"
+			width="528.7931109582756"
+			height="376.67941551982244"
+			rx="0"
+			ry="0"
+			clip-path="url(#336967786093)"
+		></rect>
+	</g>
+</svg>
+</g><g width="528.79px" height="376.68px"  transform="translate(8618.17, 1551.53) rotate(0, 264.395, 188.34)"><g transform="translate(18.833970775991123, 18.833970775991123)"><text xml:space="preserve" x="0" y="56.00573698392009" width="252.8098602294922" textLength="252.8098602294922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >1. Success Factors</text><text xml:space="preserve" x="0" y="97.00573698392009" width="307.4398498535156" textLength="307.4398498535156" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >2. Approach Overview</text><text xml:space="preserve" x="0" y="138.0057369839201" width="259.10984802246094" textLength="259.10984802246094" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >3. Project Timeline</text><text xml:space="preserve" x="0" y="179.0057369839201" width="205.5598907470703" textLength="205.5598907470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >4. Deliverables</text><text xml:space="preserve" x="0" y="220.0057369839201" width="256.46986389160156" textLength="256.46986389160156" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >5. Phase Overview</text><text xml:space="preserve" x="0" y="261.0057369839201" width="432.3597717285156" textLength="432.3597717285156" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >6. Frameworks &amp; methodology</text><text xml:space="preserve" x="0" y="302.0057369839201" width="330.4498291015625" textLength="330.4498291015625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >7. Example deliverables</text></g></g><g width="231.51px" height="0px"  transform="translate(9146.96, 1433.25) scale(1) rotate(0, 115.755, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 221.3322918705506 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(231.51411005236878, 0)  rotate(0) "  /> </g><g width="528.79px" height="199.39px"  transform="translate(9379.96, 1329.07) scale(1) rotate(0, 264.395, 99.695)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="528.7931109582837" height="199.3889572282876" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="9.016604002091071" y="68.6944786141438" width="489.15989685058594" textLength="489.15989685058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Validates the content of </text><text xml:space="preserve" x="114.11657958802857" y="123.6944786141438" width="268.55995178222656" textLength="268.55995178222656" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">the Approach</text></g></g><g width="231.51px" height="0px"  transform="translate(9908.76, 1433.25) scale(1) rotate(0, 115.755, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 221.3322918705506 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(231.51411005236878, 0)  rotate(0) "  /> </g><g width="528.79px" height="199.39px"  transform="translate(10141.76, 1329.07) scale(1) rotate(0, 264.395, 99.695)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="528.7931109582837" height="199.3889572282876" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="177.57656341371217" y="96.1944786141438" width="152.03997802734375" textLength="152.03997802734375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Submit </text></g></g><g width="626.17px" height="12.01px"  transform="translate(10670.55, 1428.76) scale(1) rotate(0, 313.085, 6.005)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 620.162454796639 0 Q 626.1689679342089 0 626.1689679342089 6.006513137569868 L 626.1689679342089 6.006513137569868 Q 626.1689679342089 12.013026275139737 620.162454796639 12.013026275139737 L 567.8539135019474 12.013026275139737" clip-path="url(#LineHeadMaskzbVFUy)"/> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(557.6720953201293, 12.013026275139737)  rotate(180) "  /> <clipPath id="LineHeadMaskzbVFUy">
+				<path d="M -2 -2 M 257.78368477509304 -2 L 394.78368477509304 -2 L 394.78368477509304 10 L 257.78368477509304 10 M -2 -2 L 12780.86 -2 L 12780.86 3934.04 L -2 3934.04" fill-rule="evenodd" clip-rule="evenodd" />
+			</clipPath><g width="135" height="20" transform="translate(259.78368477509304, -10) scale(1) rotate(0)"><text xml:space="preserve" x="0.7340774536132812" y="14" width="133.53184509277344" textLength="133.53184509277344" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="14" 
+				fill="#333333" direction="ltr" >Proposal generation</text></g></g><g width="528.79px" height="199.39px"  transform="translate(11228.22, 1341.08) scale(1) rotate(0, 264.395, 99.695)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="528.7931109582837" height="199.3889572282876" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="11.516634519669196" y="96.1944786141438" width="473.7598419189453" textLength="473.7598419189453" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Preview and make edits</text></g></g><g width="528.79px" height="199.39px"  transform="translate(12029.07, 1162.24) scale(1) rotate(0, 264.395, 99.695)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="528.7931109582837" height="199.3889572282876" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="36.69659667787232" y="96.1944786141438" width="423.39991760253906" textLength="423.39991760253906" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Upload to Sharepoint</text></g></g><g width="269.37px" height="951.79px"  transform="translate(147.27, 2092.91) scale(1) rotate(0, 134.685, 475.895)"><svg
+	width="269.3675379261977"
+	height="951.7889996806281"
+	style="width:269.3675379261977px; height: 951.7889996806281px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1399748099875">
+		<path d="M253.3675379261977,475.89449984031404 C257.3675379261977,477.89449984031404 260.3675379261977,480.89449984031404 260.3675379261977,485.89449984031404 L260.3675379261977,939.7889996806281 C260.3675379261977,944.7889996806281 264.3675379261977,948.7889996806281 269.3675379261977,948.7889996806281 L269.3675379261977,950.7889996806281 L269.3675379261977,950.7889996806281 C263.3675379261977,950.7889996806281 258.3675379261977,946.7889996806281 258.3675379261977,940.7889996806281 L258.3675379261977,485.89449984031404 C258.3675379261977,480.89449984031404 254.3675379261977,476.894499840314 249.3675379261977,476.894499840314 L249.3675379261977,474.89449984031404 C254.3675379261977,474.89449984031404 258.3675379261977,470.89449984031404 258.3675379261977,465.89449984031404 L258.3675379261977,11 C258.3675379261977,6 263.3675379261977,1 269.3675379261977,1 L269.3675379261977,1 L269.3675379261977,3 C264.3675379261977,3 260.3675379261977,7 260.3675379261977,12 L260.3675379261977,465.89449984031404 C260.3675379261977,470.89449984031404 257.3675379261977,473.89449984031404 253.3675379261977,475.89449984031404"></path>
+	</clipPath>
+	<g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<path
+			d="M253.3675379261977,475.89449984031404 C257.3675379261977,477.89449984031404 260.3675379261977,480.89449984031404 260.3675379261977,485.89449984031404 L260.3675379261977,939.7889996806281 C260.3675379261977,944.7889996806281 264.3675379261977,948.7889996806281 269.3675379261977,948.7889996806281 L269.3675379261977,950.7889996806281 L269.3675379261977,950.7889996806281 C263.3675379261977,950.7889996806281 258.3675379261977,946.7889996806281 258.3675379261977,940.7889996806281 L258.3675379261977,485.89449984031404 C258.3675379261977,480.89449984031404 254.3675379261977,476.894499840314 249.3675379261977,476.894499840314 L249.3675379261977,474.89449984031404 C254.3675379261977,474.89449984031404 258.3675379261977,470.89449984031404 258.3675379261977,465.89449984031404 L258.3675379261977,11 C258.3675379261977,6 263.3675379261977,1 269.3675379261977,1 L269.3675379261977,1 L269.3675379261977,3 C264.3675379261977,3 260.3675379261977,7 260.3675379261977,12 L260.3675379261977,465.89449984031404 C260.3675379261977,470.89449984031404 257.3675379261977,473.89449984031404 253.3675379261977,475.89449984031404"
+			class="shape-element shape-element-path"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			clip-path="url(#1399748099875)"
+		></path>
+	</g>
+</svg>
+</g><g width="269.37px" height="951.79px"  transform="translate(147.27, 2092.91) rotate(0, 134.685, 475.895)"><g transform="translate(13.468376896309886, 47.589449984031404)"><text xml:space="preserve" x="0" y="439.8050498562826" width="154.4765625" textLength="154.4765625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"OpenSans", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Backend</text></g></g><g width="269.37px" height="328.74px"  transform="translate(147.27, 3159.55) scale(1) rotate(0, 134.685, 164.37)"><svg
+	width="269.3675379261977"
+	height="328.7354491559769"
+	style="width:269.3675379261977px; height: 328.7354491559769px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1135073286066">
+		<path d="M253.3675379261977,164.36772457798844 C257.3675379261977,166.36772457798844 260.3675379261977,169.36772457798844 260.3675379261977,174.36772457798844 L260.3675379261977,316.7354491559769 C260.3675379261977,321.7354491559769 264.3675379261977,325.7354491559769 269.3675379261977,325.7354491559769 L269.3675379261977,327.7354491559769 L269.3675379261977,327.7354491559769 C263.3675379261977,327.7354491559769 258.3675379261977,323.7354491559769 258.3675379261977,317.7354491559769 L258.3675379261977,174.36772457798844 C258.3675379261977,169.36772457798844 254.3675379261977,165.36772457798844 249.3675379261977,165.36772457798844 L249.3675379261977,163.36772457798844 C254.3675379261977,163.36772457798844 258.3675379261977,159.36772457798844 258.3675379261977,154.36772457798844 L258.3675379261977,11 C258.3675379261977,6 263.3675379261977,1 269.3675379261977,1 L269.3675379261977,1 L269.3675379261977,3 C264.3675379261977,3 260.3675379261977,7.000000000000001 260.3675379261977,12 L260.3675379261977,154.36772457798844 C260.3675379261977,159.36772457798844 257.3675379261977,162.36772457798844 253.3675379261977,164.36772457798844"></path>
+	</clipPath>
+	<g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<path
+			d="M253.3675379261977,164.36772457798844 C257.3675379261977,166.36772457798844 260.3675379261977,169.36772457798844 260.3675379261977,174.36772457798844 L260.3675379261977,316.7354491559769 C260.3675379261977,321.7354491559769 264.3675379261977,325.7354491559769 269.3675379261977,325.7354491559769 L269.3675379261977,327.7354491559769 L269.3675379261977,327.7354491559769 C263.3675379261977,327.7354491559769 258.3675379261977,323.7354491559769 258.3675379261977,317.7354491559769 L258.3675379261977,174.36772457798844 C258.3675379261977,169.36772457798844 254.3675379261977,165.36772457798844 249.3675379261977,165.36772457798844 L249.3675379261977,163.36772457798844 C254.3675379261977,163.36772457798844 258.3675379261977,159.36772457798844 258.3675379261977,154.36772457798844 L258.3675379261977,11 C258.3675379261977,6 263.3675379261977,1 269.3675379261977,1 L269.3675379261977,1 L269.3675379261977,3 C264.3675379261977,3 260.3675379261977,7.000000000000001 260.3675379261977,12 L260.3675379261977,154.36772457798844 C260.3675379261977,159.36772457798844 257.3675379261977,162.36772457798844 253.3675379261977,164.36772457798844"
+			class="shape-element shape-element-path"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			clip-path="url(#1135073286066)"
+		></path>
+	</g>
+</svg>
+</g><g width="269.37px" height="328.74px"  transform="translate(147.27, 3159.55) rotate(0, 134.685, 164.37)"><g transform="translate(13.468376896309886, 16.436772457798845)"><text xml:space="preserve" x="0" y="159.4309521201896" width="204.908203125" textLength="204.908203125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"OpenSans", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Documents</text></g></g><g width="527.76px" height="199.39px"  transform="translate(7917.25, 2314.97) scale(1) rotate(0, 263.88, 99.695)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #0c468a;fill-opacity: 1"><rect x="0" y="0" width="527.7566094531503" height="199.3889572282879" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="87.51834989259078" y="41.19447861414395" width="331.1199035644531" textLength="331.1199035644531" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Synthesize from </text><text xml:space="preserve" x="35.31836820313765" y="96.19447861414395" width="435.5198669433594" textLength="435.5198669433594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">different sources and </text><text xml:space="preserve" x="31.178353554700152" y="151.19447861414395" width="433.39990234375" textLength="433.39990234375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">select the best option</text></g></g><g width="173.17px" height="67.27px"  transform="translate(8445, 2414.67) scale(1) rotate(0, 86.585, 33.635)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 78.58363129118516 0 Q 86.58363129118516 0 86.58363129118516 8 L 86.58363129118516 59.27378861920897 Q 86.58363129118516 67.27378861920897 94.58363129118516 67.27378861920897 L 162.9854444005594 67.27378861920897" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(173.1672625823776, 67.27378861920897)  rotate(0) "  /> </g><g width="272.06px" height="178.84px"  transform="translate(11757.01, 1261.93) scale(1) rotate(0, 136.03, 89.42)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 178.84160315404915 L 128.0279448381043 178.84160315404915 Q 136.0279448381043 178.84160315404915 136.0279448381043 170.84160315404915 L 136.0279448381043 8 Q 136.0279448381043 0 144.0279448381043 0 L 261.87407149438314 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(272.05588967620133, 0)  rotate(0) "  /> </g><g width="528.79px" height="199.39px"  transform="translate(12029.07, 1460.63) scale(1) rotate(0, 264.395, 99.695)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="528.7931109582837" height="199.3889572282876" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="27.936594541641853" y="96.1944786141438" width="440.919921875" textLength="440.919921875" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Download Powerpoint</text></g></g><g width="272.06px" height="119.55px"  transform="translate(11757.01, 1440.78) scale(1) rotate(0, 136.03, 59.775)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 128.0279448381043 0 Q 136.0279448381043 0 136.0279448381043 8 L 136.0279448381043 111.55058229891938 Q 136.0279448381043 119.55058229891938 144.0279448381043 119.55058229891938 L 261.87407149438314 119.55058229891938" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(272.05588967620133, 119.55058229891938)  rotate(0) "  /> </g><g width="527.76px" height="157.09px"  transform="translate(7917.25, 2560.48) scale(1) rotate(0, 263.88, 78.545)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #0c468a;fill-opacity: 1"><rect x="0" y="0" width="527.7566094531503" height="157.08756825567593" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="33.33836484620406" y="47.54378412783797" width="439.47987365722656" textLength="439.47987365722656" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Find the best existing </text><text xml:space="preserve" x="46.75837827393843" y="102.54378412783797" width="402.23985290527344" textLength="402.23985290527344" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">page(s) as reference</text></g></g><g width="527.76px" height="157.09px"  transform="translate(8618.17, 2403.4) scale(1) rotate(0, 263.88, 78.545)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #0c468a;fill-opacity: 1"><rect x="0" y="0" width="527.7566094531503" height="157.08756825567593" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="1.0983746118290583" y="47.54378412783797" width="493.5598602294922" textLength="493.5598602294922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Generate each section in</text><text xml:space="preserve" x="38.598359353039996" y="102.54378412783797" width="418.5598907470703" textLength="418.5598907470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">the storyline in Word</text></g></g><g width="173.17px" height="129.45px"  transform="translate(8445, 2509.58) scale(1) rotate(0, 86.585, 64.725)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 129.44982971814102 L 78.58363129118516 129.44982971814102 Q 86.58363129118516 129.44982971814102 86.58363129118516 121.44982971814102 L 86.58363129118516 8 Q 86.58363129118516 0 94.58363129118516 0 L 162.9854444005594 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(173.1672625823776, -4.547473508864641e-13)  rotate(0) "  /> </g><g width="1290.59px" height="157.09px"  transform="translate(8618.17, 2768.94) scale(1) rotate(0, 645.295, 78.545)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #0c468a;fill-opacity: 1"><rect x="0" y="0" width="1290.5862219165665" height="157.08756825567593" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="417.81315337771684" y="75.04378412783797" width="422.9599151611328" textLength="422.9599151611328" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Upload to SharePoint</text></g></g><g width="527.76px" height="157.09px"  transform="translate(11228.22, 2403.4) scale(1) rotate(0, 263.88, 78.545)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #0c468a;fill-opacity: 1"><rect x="0" y="0" width="527.7566094531503" height="157.08756825567593" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="34.858361489270465" y="75.04378412783797" width="426.0398864746094" textLength="426.0398864746094" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Generate Powerpoint</text></g></g><g width="381.41px" height="208.46px"  transform="translate(8882.05, 2560.48) scale(1) rotate(0, 190.705, 104.23)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 0 96.22810793608096 Q 0 104.22810793608096 8 104.22810793608096 L 373.4148062317108 104.22810793608096 Q 381.4148062317108 104.22810793608096 381.4148062317108 112.22810793608096 L 381.4148062317108 198.27439769034373" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(381.4148062317108, 208.45621587216192)  rotate(90) "  /> </g><g width="2082.29px" height="0px"  transform="translate(9145.93, 2481.94) scale(1) rotate(0, 1041.145, 0)"><path  stroke-dasharray="0.1,4" stroke-linecap="round" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 2072.1130005600116 0" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(2082.2948187418224, 0)  rotate(0) "  /> </g><g width="769.26px" height="88px"  transform="translate(10777.47, 3194.96) scale(2.533333333333331) rotate(0, 384.63, 44)">
+		<svg xmlns="http://www.w3.org/2000/svg" width="770" height="88">
+		<style type="text/css"><![CDATA[   ]]></style>
+		<foreignObject width="100%" height="100%">
+			<div xmlns="http://www.w3.org/1999/xhtml"  width="770" height="88" ><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div class="card-widget" style="&#10;&#9;&#9;width: 769.2553px;&#10;&#9;&#9;height: 88px;&#10;&#9;&#9;border-color: #051c2c;&#10;&#9;&#9;border-bottom: 6px solid #051c2c;&#10;&#9;&#9;font-family: 'Noto Sans', Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR;&#10;&#9;">
+	<div class="card-widget__content-fill" style="opacity: 0.08; background-color: transparent"></div>
+	<div class="card-widget__content-wrapper"><div class="title" style="height: 23px;margin-top: 13px"><p>Proposal (PPT)</p></div><div class="card-widget_bottom-container" style="margin-top:10px"><div class="tags-container"><span class="tagView tagView--icon" style="background-color: #f1f2f5;"><img alt="" class="tagView__img" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik00LjY2Njc1IDZIMTUuMzMzNE00LjY2Njc1IDEwSDE1LjMzMzRNNC42NjY3NSAxNEgxMS4wNjY3IiBzdHJva2U9IiM1NTVBNkEiIHN0cm9rZS13aWR0aD0iMS4zMzMzMyIKICAgICAgICAgIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiLz4KPC9zdmc+Cg==" /></span><span class="tag label" style="width:62.9879150390625px;background-color:#a8e9ff">Required</span></div></div></div>
+</div>
+<style>body {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+svg {
+	font-kerning: normal;
+}
+
+a {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+	display: inline;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 30px;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+/* copy from editor/svg.less */
+.editor-editfield ul,
+.editor-editfield ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 9px;
+}
+.editor-editfield p {
+	margin: 0;
+	padding: 0;
+}
+.editor-editfield a {
+	display: inline;
+	color: var(--colors-blue-450);
+	text-decoration: underline;
+	word-break: break-all;
+}
+.editor-editfield a:hover {
+	color: var(--colors-blue-450);
+}
+.editor-editfield.disable-bold,
+.editor-editfield.disable-bold strong,
+.editor-editfield.disable-bold b {
+	font-weight: normal !important;
+}
+.editor-editfield.disable-italic,
+.editor-editfield.disable-italic em,
+.editor-editfield.disable-italic i {
+	font-style: normal !important;
+}
+.editor-editfield li::before {
+	display: inline-block;
+	box-sizing: border-box;
+	white-space: nowrap;
+	width: 28px;
+}
+.editor-editfield ol &gt; li,
+.editor-editfield ul &gt; li {
+	list-style-type: none;
+}
+.editor-editfield ul &gt; li::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='bullet']::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='ordered']:not(:global(.ql-direction-rtl))::before {
+	text-align: right;
+}
+.editor-editfield ul &gt; li:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield ol &gt; li[data-list='bullet']:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield li:not(:global(.ql-direction-rtl))::before {
+	margin-left: -28px;
+	padding-right: 4.2px;
+}
+.editor-editfield ol li:not(:global(.ql-direction-rtl)),
+.editor-editfield ul li:not(:global(.ql-direction-rtl)) {
+	padding-left: 21px;
+}
+.editor-editfield :global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 42px;
+}
+.editor-editfield li:global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 63px;
+}
+.editor-editfield :global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 42px;
+}
+.editor-editfield li:global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 63px;
+}
+.editor-editfield :global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 84px;
+}
+.editor-editfield li:global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 105px;
+}
+.editor-editfield :global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 84px;
+}
+.editor-editfield li:global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 105px;
+}
+.editor-editfield :global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 126px;
+}
+.editor-editfield li:global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 147px;
+}
+.editor-editfield :global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 126px;
+}
+.editor-editfield li:global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 147px;
+}
+.editor-editfield :global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 168px;
+}
+.editor-editfield li:global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 189px;
+}
+.editor-editfield :global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 168px;
+}
+.editor-editfield li:global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 189px;
+}
+.editor-editfield :global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 210px;
+}
+.editor-editfield li:global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 231px;
+}
+.editor-editfield :global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 210px;
+}
+.editor-editfield li:global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 231px;
+}
+.editor-editfield :global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 252px;
+}
+.editor-editfield li:global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 273px;
+}
+.editor-editfield :global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 252px;
+}
+.editor-editfield li:global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 273px;
+}
+.editor-editfield :global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 294px;
+}
+.editor-editfield li:global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 315px;
+}
+.editor-editfield :global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 294px;
+}
+.editor-editfield li:global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 315px;
+}
+.editor-editfield :global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 336px;
+}
+.editor-editfield li:global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 357px;
+}
+.editor-editfield :global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 336px;
+}
+.editor-editfield li:global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 357px;
+}
+.editor-editfield :global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 378px;
+}
+.editor-editfield li:global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 399px;
+}
+.editor-editfield :global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 378px;
+}
+.editor-editfield li:global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 399px;
+}
+.editor-editfield ol [data-list='ordered'] {
+	counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+	counter-increment: list-num;
+}
+.editor-editfield ol li[data-list='ordered']:before {
+	content: counter(list-num, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1) {
+	counter-increment: list-1;
+	counter-reset: list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1):before {
+	content: counter(list-1, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2) {
+	counter-increment: list-2;
+	counter-reset: list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2):before {
+	content: counter(list-2, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3) {
+	counter-increment: list-3;
+	counter-reset: list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3):before {
+	content: counter(list-3, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4) {
+	counter-increment: list-4;
+	counter-reset: list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4):before {
+	content: counter(list-4, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5) {
+	counter-increment: list-5;
+	counter-reset: list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5):before {
+	content: counter(list-5, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6) {
+	counter-increment: list-6;
+	counter-reset: list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6):before {
+	content: counter(list-6, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7) {
+	counter-increment: list-7;
+	counter-reset: list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7):before {
+	content: counter(list-7, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8) {
+	counter-increment: list-8;
+	counter-reset: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8):before {
+	content: counter(list-8, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9) {
+	counter-increment: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9):before {
+	content: counter(list-9, decimal) '. ';
+}
+</style></body></html></div>
+		</foreignObject>
+		</svg>
+</g><g width="184.56px" height="802.15px"  transform="translate(230.4, 169.37) scale(1) rotate(0, 92.28, 401.075)"><svg
+	width="184.56051495595878"
+	height="802.151033928251"
+	style="width:184.56051495595878px; height: 802.151033928251px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="739884545808">
+		<path d="M168.56051495595878,401.0755169641255 C172.56051495595878,403.0755169641255 175.56051495595878,406.0755169641255 175.56051495595878,411.0755169641254 L175.56051495595878,790.151033928251 C175.56051495595878,795.151033928251 179.56051495595878,799.151033928251 184.56051495595878,799.151033928251 L184.56051495595878,801.151033928251 L184.56051495595878,801.151033928251 C178.56051495595878,801.151033928251 173.56051495595878,797.151033928251 173.56051495595878,791.151033928251 L173.56051495595878,411.0755169641254 C173.56051495595878,406.0755169641255 169.56051495595878,402.0755169641254 164.56051495595878,402.0755169641254 L164.56051495595878,400.0755169641255 C169.56051495595878,400.0755169641255 173.56051495595878,396.0755169641255 173.56051495595878,391.0755169641255 L173.56051495595878,11 C173.56051495595878,6 178.56051495595878,1 184.56051495595878,1 L184.56051495595878,1 L184.56051495595878,3 C179.56051495595878,3 175.56051495595878,7 175.56051495595878,12 L175.56051495595878,391.0755169641255 C175.56051495595878,396.0755169641255 172.56051495595878,399.0755169641255 168.56051495595878,401.0755169641255"></path>
+	</clipPath>
+	<g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<path
+			d="M168.56051495595878,401.0755169641255 C172.56051495595878,403.0755169641255 175.56051495595878,406.0755169641255 175.56051495595878,411.0755169641254 L175.56051495595878,790.151033928251 C175.56051495595878,795.151033928251 179.56051495595878,799.151033928251 184.56051495595878,799.151033928251 L184.56051495595878,801.151033928251 L184.56051495595878,801.151033928251 C178.56051495595878,801.151033928251 173.56051495595878,797.151033928251 173.56051495595878,791.151033928251 L173.56051495595878,411.0755169641254 C173.56051495595878,406.0755169641255 169.56051495595878,402.0755169641254 164.56051495595878,402.0755169641254 L164.56051495595878,400.0755169641255 C169.56051495595878,400.0755169641255 173.56051495595878,396.0755169641255 173.56051495595878,391.0755169641255 L173.56051495595878,11 C173.56051495595878,6 178.56051495595878,1 184.56051495595878,1 L184.56051495595878,1 L184.56051495595878,3 C179.56051495595878,3 175.56051495595878,7 175.56051495595878,12 L175.56051495595878,391.0755169641255 C175.56051495595878,396.0755169641255 172.56051495595878,399.0755169641255 168.56051495595878,401.0755169641255"
+			class="shape-element shape-element-path"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			clip-path="url(#739884545808)"
+		></path>
+	</g>
+</svg>
+</g><g width="184.56px" height="802.15px"  transform="translate(230.4, 169.37) rotate(0, 92.28, 401.075)"><g transform="translate(9.22802574779794, 40.10755169641255)"><text xml:space="preserve" x="0" y="372.46796526771294" width="125.068359375" textLength="125.068359375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"OpenSans", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Phases</text></g></g><g width="528.79px" height="199.39px"  transform="translate(12029.07, 1728.82) scale(1) rotate(0, 264.395, 99.695)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="528.7931109582837" height="199.3889572282876" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="73.45659881410279" y="68.6944786141438" width="360.2799072265625" textLength="360.2799072265625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Activate / Engage </text><text xml:space="preserve" x="125.43658691224732" y="123.6944786141438" width="245.91993713378906" textLength="245.91993713378906" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#ffffff" direction="ltr" font-weight="bold">integrations</text></g></g><g width="272.06px" height="387.74px"  transform="translate(11757.01, 1440.78) scale(1) rotate(0, 136.03, 193.87)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 L 128.02794483809703 0 Q 136.02794483809703 0 136.02794483809703 8 L 136.02794483809703 379.7362121029978 Q 136.02794483809703 387.7362121029978 144.02794483809703 387.7362121029978 L 261.87407149437587 387.7362121029978" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(272.05588967619406, 387.7362121029978)  rotate(0) "  /> </g><g width="408.09px" height="130.48px"  transform="translate(451.71, 3664.1) scale(1) rotate(0, 204.045, 65.24)"><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: #659df2;fill-opacity: 1"><rect x="0" y="0" width="408.09113461788604" height="130.47738476276447" rx="8" /></g></g><g><g style="stroke: transparent;stroke-width: 0;stroke-opacity: 1;stroke-dasharray: none;stroke-linecap: round;stroke-linejoin: round;fill: transparent;fill-opacity: 0"></g></g><g transform="translate(16, 16)"><text xml:space="preserve" x="55.101620470564114" y="38.238692381382236" width="273.1678924560547" textLength="273.1678924560547" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Associate Partner / </text><text xml:space="preserve" x="80.52560881284927" y="77.23869238138224" width="215.0399169921875" textLength="215.0399169921875" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#ffffff" direction="ltr" font-weight="bold">Partner actions</text></g></g><g width="278.55px" height="88px"  transform="translate(1220.13, 3194.96) scale(2.533333333333331) rotate(0, 139.275, 44)">
+		<svg xmlns="http://www.w3.org/2000/svg" width="279" height="88">
+		<style type="text/css"><![CDATA[   ]]></style>
+		<foreignObject width="100%" height="100%">
+			<div xmlns="http://www.w3.org/1999/xhtml"  width="279" height="88" ><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div class="card-widget" style="&#10;&#9;&#9;width: 278.5477px;&#10;&#9;&#9;height: 88px;&#10;&#9;&#9;border-color: #051c2c;&#10;&#9;&#9;border-bottom: 6px solid #051c2c;&#10;&#9;&#9;font-family: 'Noto Sans', Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR;&#10;&#9;">
+	<div class="card-widget__content-fill" style="opacity: 0.08; background-color: transparent"></div>
+	<div class="card-widget__content-wrapper"><div class="title" style="height: 23px;margin-top: 13px"><p>Client Communications</p></div><div class="card-widget_bottom-container" style="margin-top:10px"><div class="tags-container"><span class="tagView tagView--icon" style="background-color: #f1f2f5;"><img alt="" class="tagView__img" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik00LjY2Njc1IDZIMTUuMzMzNE00LjY2Njc1IDEwSDE1LjMzMzRNNC42NjY3NSAxNEgxMS4wNjY3IiBzdHJva2U9IiM1NTVBNkEiIHN0cm9rZS13aWR0aD0iMS4zMzMzMyIKICAgICAgICAgIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiLz4KPC9zdmc+Cg==" /></span></div></div></div>
+</div>
+<style>body {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+svg {
+	font-kerning: normal;
+}
+
+a {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+	display: inline;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 30px;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+/* copy from editor/svg.less */
+.editor-editfield ul,
+.editor-editfield ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 9px;
+}
+.editor-editfield p {
+	margin: 0;
+	padding: 0;
+}
+.editor-editfield a {
+	display: inline;
+	color: var(--colors-blue-450);
+	text-decoration: underline;
+	word-break: break-all;
+}
+.editor-editfield a:hover {
+	color: var(--colors-blue-450);
+}
+.editor-editfield.disable-bold,
+.editor-editfield.disable-bold strong,
+.editor-editfield.disable-bold b {
+	font-weight: normal !important;
+}
+.editor-editfield.disable-italic,
+.editor-editfield.disable-italic em,
+.editor-editfield.disable-italic i {
+	font-style: normal !important;
+}
+.editor-editfield li::before {
+	display: inline-block;
+	box-sizing: border-box;
+	white-space: nowrap;
+	width: 28px;
+}
+.editor-editfield ol &gt; li,
+.editor-editfield ul &gt; li {
+	list-style-type: none;
+}
+.editor-editfield ul &gt; li::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='bullet']::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='ordered']:not(:global(.ql-direction-rtl))::before {
+	text-align: right;
+}
+.editor-editfield ul &gt; li:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield ol &gt; li[data-list='bullet']:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield li:not(:global(.ql-direction-rtl))::before {
+	margin-left: -28px;
+	padding-right: 4.2px;
+}
+.editor-editfield ol li:not(:global(.ql-direction-rtl)),
+.editor-editfield ul li:not(:global(.ql-direction-rtl)) {
+	padding-left: 21px;
+}
+.editor-editfield :global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 42px;
+}
+.editor-editfield li:global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 63px;
+}
+.editor-editfield :global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 42px;
+}
+.editor-editfield li:global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 63px;
+}
+.editor-editfield :global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 84px;
+}
+.editor-editfield li:global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 105px;
+}
+.editor-editfield :global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 84px;
+}
+.editor-editfield li:global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 105px;
+}
+.editor-editfield :global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 126px;
+}
+.editor-editfield li:global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 147px;
+}
+.editor-editfield :global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 126px;
+}
+.editor-editfield li:global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 147px;
+}
+.editor-editfield :global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 168px;
+}
+.editor-editfield li:global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 189px;
+}
+.editor-editfield :global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 168px;
+}
+.editor-editfield li:global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 189px;
+}
+.editor-editfield :global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 210px;
+}
+.editor-editfield li:global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 231px;
+}
+.editor-editfield :global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 210px;
+}
+.editor-editfield li:global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 231px;
+}
+.editor-editfield :global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 252px;
+}
+.editor-editfield li:global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 273px;
+}
+.editor-editfield :global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 252px;
+}
+.editor-editfield li:global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 273px;
+}
+.editor-editfield :global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 294px;
+}
+.editor-editfield li:global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 315px;
+}
+.editor-editfield :global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 294px;
+}
+.editor-editfield li:global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 315px;
+}
+.editor-editfield :global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 336px;
+}
+.editor-editfield li:global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 357px;
+}
+.editor-editfield :global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 336px;
+}
+.editor-editfield li:global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 357px;
+}
+.editor-editfield :global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 378px;
+}
+.editor-editfield li:global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 399px;
+}
+.editor-editfield :global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 378px;
+}
+.editor-editfield li:global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 399px;
+}
+.editor-editfield ol [data-list='ordered'] {
+	counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+	counter-increment: list-num;
+}
+.editor-editfield ol li[data-list='ordered']:before {
+	content: counter(list-num, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1) {
+	counter-increment: list-1;
+	counter-reset: list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1):before {
+	content: counter(list-1, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2) {
+	counter-increment: list-2;
+	counter-reset: list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2):before {
+	content: counter(list-2, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3) {
+	counter-increment: list-3;
+	counter-reset: list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3):before {
+	content: counter(list-3, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4) {
+	counter-increment: list-4;
+	counter-reset: list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4):before {
+	content: counter(list-4, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5) {
+	counter-increment: list-5;
+	counter-reset: list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5):before {
+	content: counter(list-5, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6) {
+	counter-increment: list-6;
+	counter-reset: list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6):before {
+	content: counter(list-6, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7) {
+	counter-increment: list-7;
+	counter-reset: list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7):before {
+	content: counter(list-7, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8) {
+	counter-increment: list-8;
+	counter-reset: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8):before {
+	content: counter(list-8, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9) {
+	counter-increment: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9):before {
+	content: counter(list-9, decimal) '. ';
+}
+</style></body></html></div>
+		</foreignObject>
+		</svg>
+</g><g width="278.55px" height="88px"  transform="translate(7858.03, 3194.96) scale(2.533333333333331) rotate(0, 139.275, 44)">
+		<svg xmlns="http://www.w3.org/2000/svg" width="279" height="88">
+		<style type="text/css"><![CDATA[   ]]></style>
+		<foreignObject width="100%" height="100%">
+			<div xmlns="http://www.w3.org/1999/xhtml"  width="279" height="88" ><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div class="card-widget" style="&#10;&#9;&#9;width: 278.5477px;&#10;&#9;&#9;height: 88px;&#10;&#9;&#9;border-color: #051c2c;&#10;&#9;&#9;border-bottom: 6px solid #051c2c;&#10;&#9;&#9;font-family: 'Noto Sans', Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR;&#10;&#9;">
+	<div class="card-widget__content-fill" style="opacity: 0.08; background-color: transparent"></div>
+	<div class="card-widget__content-wrapper"><div class="title" style="height: 23px;margin-top: 13px"><p>Storyline document</p></div><div class="card-widget_bottom-container" style="margin-top:10px"><div class="tags-container"><span class="tagView tagView--icon" style="background-color: #f1f2f5;"><img alt="" class="tagView__img" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik00LjY2Njc1IDZIMTUuMzMzNE00LjY2Njc1IDEwSDE1LjMzMzRNNC42NjY3NSAxNEgxMS4wNjY3IiBzdHJva2U9IiM1NTVBNkEiIHN0cm9rZS13aWR0aD0iMS4zMzMzMyIKICAgICAgICAgIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiLz4KPC9zdmc+Cg==" /></span><span class="tag label" style="width:62.9879150390625px;background-color:#a8e9ff">Required</span></div></div></div>
+</div>
+<style>body {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+svg {
+	font-kerning: normal;
+}
+
+a {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+	display: inline;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 30px;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+/* copy from editor/svg.less */
+.editor-editfield ul,
+.editor-editfield ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 9px;
+}
+.editor-editfield p {
+	margin: 0;
+	padding: 0;
+}
+.editor-editfield a {
+	display: inline;
+	color: var(--colors-blue-450);
+	text-decoration: underline;
+	word-break: break-all;
+}
+.editor-editfield a:hover {
+	color: var(--colors-blue-450);
+}
+.editor-editfield.disable-bold,
+.editor-editfield.disable-bold strong,
+.editor-editfield.disable-bold b {
+	font-weight: normal !important;
+}
+.editor-editfield.disable-italic,
+.editor-editfield.disable-italic em,
+.editor-editfield.disable-italic i {
+	font-style: normal !important;
+}
+.editor-editfield li::before {
+	display: inline-block;
+	box-sizing: border-box;
+	white-space: nowrap;
+	width: 28px;
+}
+.editor-editfield ol &gt; li,
+.editor-editfield ul &gt; li {
+	list-style-type: none;
+}
+.editor-editfield ul &gt; li::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='bullet']::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='ordered']:not(:global(.ql-direction-rtl))::before {
+	text-align: right;
+}
+.editor-editfield ul &gt; li:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield ol &gt; li[data-list='bullet']:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield li:not(:global(.ql-direction-rtl))::before {
+	margin-left: -28px;
+	padding-right: 4.2px;
+}
+.editor-editfield ol li:not(:global(.ql-direction-rtl)),
+.editor-editfield ul li:not(:global(.ql-direction-rtl)) {
+	padding-left: 21px;
+}
+.editor-editfield :global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 42px;
+}
+.editor-editfield li:global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 63px;
+}
+.editor-editfield :global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 42px;
+}
+.editor-editfield li:global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 63px;
+}
+.editor-editfield :global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 84px;
+}
+.editor-editfield li:global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 105px;
+}
+.editor-editfield :global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 84px;
+}
+.editor-editfield li:global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 105px;
+}
+.editor-editfield :global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 126px;
+}
+.editor-editfield li:global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 147px;
+}
+.editor-editfield :global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 126px;
+}
+.editor-editfield li:global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 147px;
+}
+.editor-editfield :global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 168px;
+}
+.editor-editfield li:global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 189px;
+}
+.editor-editfield :global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 168px;
+}
+.editor-editfield li:global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 189px;
+}
+.editor-editfield :global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 210px;
+}
+.editor-editfield li:global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 231px;
+}
+.editor-editfield :global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 210px;
+}
+.editor-editfield li:global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 231px;
+}
+.editor-editfield :global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 252px;
+}
+.editor-editfield li:global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 273px;
+}
+.editor-editfield :global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 252px;
+}
+.editor-editfield li:global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 273px;
+}
+.editor-editfield :global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 294px;
+}
+.editor-editfield li:global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 315px;
+}
+.editor-editfield :global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 294px;
+}
+.editor-editfield li:global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 315px;
+}
+.editor-editfield :global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 336px;
+}
+.editor-editfield li:global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 357px;
+}
+.editor-editfield :global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 336px;
+}
+.editor-editfield li:global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 357px;
+}
+.editor-editfield :global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 378px;
+}
+.editor-editfield li:global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 399px;
+}
+.editor-editfield :global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 378px;
+}
+.editor-editfield li:global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 399px;
+}
+.editor-editfield ol [data-list='ordered'] {
+	counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+	counter-increment: list-num;
+}
+.editor-editfield ol li[data-list='ordered']:before {
+	content: counter(list-num, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1) {
+	counter-increment: list-1;
+	counter-reset: list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1):before {
+	content: counter(list-1, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2) {
+	counter-increment: list-2;
+	counter-reset: list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2):before {
+	content: counter(list-2, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3) {
+	counter-increment: list-3;
+	counter-reset: list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3):before {
+	content: counter(list-3, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4) {
+	counter-increment: list-4;
+	counter-reset: list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4):before {
+	content: counter(list-4, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5) {
+	counter-increment: list-5;
+	counter-reset: list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5):before {
+	content: counter(list-5, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6) {
+	counter-increment: list-6;
+	counter-reset: list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6):before {
+	content: counter(list-6, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7) {
+	counter-increment: list-7;
+	counter-reset: list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7):before {
+	content: counter(list-7, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8) {
+	counter-increment: list-8;
+	counter-reset: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8):before {
+	content: counter(list-8, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9) {
+	counter-increment: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9):before {
+	content: counter(list-9, decimal) '. ';
+}
+</style></body></html></div>
+		</foreignObject>
+		</svg>
+</g><g width="278.55px" height="88px"  transform="translate(1965.78, 3194.96) scale(2.533333333333331) rotate(0, 139.275, 44)">
+		<svg xmlns="http://www.w3.org/2000/svg" width="279" height="88">
+		<style type="text/css"><![CDATA[   ]]></style>
+		<foreignObject width="100%" height="100%">
+			<div xmlns="http://www.w3.org/1999/xhtml"  width="279" height="88" ><html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div class="card-widget" style="&#10;&#9;&#9;width: 278.5477px;&#10;&#9;&#9;height: 88px;&#10;&#9;&#9;border-color: #051c2c;&#10;&#9;&#9;border-bottom: 6px solid #051c2c;&#10;&#9;&#9;font-family: 'Noto Sans', Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR;&#10;&#9;">
+	<div class="card-widget__content-fill" style="opacity: 0.08; background-color: transparent"></div>
+	<div class="card-widget__content-wrapper"><div class="title" style="height: 23px;margin-top: 13px"><p>MVI Reports</p></div><div class="card-widget_bottom-container" style="margin-top:10px"><div class="tags-container"><span class="tagView tagView--icon" style="background-color: #f1f2f5;"><img alt="" class="tagView__img" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik00LjY2Njc1IDZIMTUuMzMzNE00LjY2Njc1IDEwSDE1LjMzMzRNNC42NjY3NSAxNEgxMS4wNjY3IiBzdHJva2U9IiM1NTVBNkEiIHN0cm9rZS13aWR0aD0iMS4zMzMzMyIKICAgICAgICAgIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiLz4KPC9zdmc+Cg==" /></span></div></div></div>
+</div>
+<style>body {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+svg {
+	font-kerning: normal;
+}
+
+a {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+	display: inline;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: var(--colors-blue-450);
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 30px;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+/* copy from editor/svg.less */
+.editor-editfield ul,
+.editor-editfield ol {
+	margin: 0;
+	padding: 0;
+	padding-left: 9px;
+}
+.editor-editfield p {
+	margin: 0;
+	padding: 0;
+}
+.editor-editfield a {
+	display: inline;
+	color: var(--colors-blue-450);
+	text-decoration: underline;
+	word-break: break-all;
+}
+.editor-editfield a:hover {
+	color: var(--colors-blue-450);
+}
+.editor-editfield.disable-bold,
+.editor-editfield.disable-bold strong,
+.editor-editfield.disable-bold b {
+	font-weight: normal !important;
+}
+.editor-editfield.disable-italic,
+.editor-editfield.disable-italic em,
+.editor-editfield.disable-italic i {
+	font-style: normal !important;
+}
+.editor-editfield li::before {
+	display: inline-block;
+	box-sizing: border-box;
+	white-space: nowrap;
+	width: 28px;
+}
+.editor-editfield ol &gt; li,
+.editor-editfield ul &gt; li {
+	list-style-type: none;
+}
+.editor-editfield ul &gt; li::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='bullet']::before {
+	padding-left: 7px;
+	content: '\2022';
+}
+.editor-editfield ol &gt; li[data-list='ordered']:not(:global(.ql-direction-rtl))::before {
+	text-align: right;
+}
+.editor-editfield ul &gt; li:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield ol &gt; li[data-list='bullet']:not(:global(.ql-direction-rtl))::before {
+	text-align: center;
+}
+.editor-editfield li:not(:global(.ql-direction-rtl))::before {
+	margin-left: -28px;
+	padding-right: 4.2px;
+}
+.editor-editfield ol li:not(:global(.ql-direction-rtl)),
+.editor-editfield ul li:not(:global(.ql-direction-rtl)) {
+	padding-left: 21px;
+}
+.editor-editfield :global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 42px;
+}
+.editor-editfield li:global(.ql-indent-1):not(:global(.ql-direction-rtl)) {
+	padding-left: 63px;
+}
+.editor-editfield :global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 42px;
+}
+.editor-editfield li:global(.ql-indent-1.ql-direction-rtl.ql-align-right) {
+	padding-right: 63px;
+}
+.editor-editfield :global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 84px;
+}
+.editor-editfield li:global(.ql-indent-2):not(:global(.ql-direction-rtl)) {
+	padding-left: 105px;
+}
+.editor-editfield :global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 84px;
+}
+.editor-editfield li:global(.ql-indent-2.ql-direction-rtl.ql-align-right) {
+	padding-right: 105px;
+}
+.editor-editfield :global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 126px;
+}
+.editor-editfield li:global(.ql-indent-3):not(:global(.ql-direction-rtl)) {
+	padding-left: 147px;
+}
+.editor-editfield :global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 126px;
+}
+.editor-editfield li:global(.ql-indent-3.ql-direction-rtl.ql-align-right) {
+	padding-right: 147px;
+}
+.editor-editfield :global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 168px;
+}
+.editor-editfield li:global(.ql-indent-4):not(:global(.ql-direction-rtl)) {
+	padding-left: 189px;
+}
+.editor-editfield :global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 168px;
+}
+.editor-editfield li:global(.ql-indent-4.ql-direction-rtl.ql-align-right) {
+	padding-right: 189px;
+}
+.editor-editfield :global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 210px;
+}
+.editor-editfield li:global(.ql-indent-5):not(:global(.ql-direction-rtl)) {
+	padding-left: 231px;
+}
+.editor-editfield :global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 210px;
+}
+.editor-editfield li:global(.ql-indent-5.ql-direction-rtl.ql-align-right) {
+	padding-right: 231px;
+}
+.editor-editfield :global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 252px;
+}
+.editor-editfield li:global(.ql-indent-6):not(:global(.ql-direction-rtl)) {
+	padding-left: 273px;
+}
+.editor-editfield :global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 252px;
+}
+.editor-editfield li:global(.ql-indent-6.ql-direction-rtl.ql-align-right) {
+	padding-right: 273px;
+}
+.editor-editfield :global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 294px;
+}
+.editor-editfield li:global(.ql-indent-7):not(:global(.ql-direction-rtl)) {
+	padding-left: 315px;
+}
+.editor-editfield :global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 294px;
+}
+.editor-editfield li:global(.ql-indent-7.ql-direction-rtl.ql-align-right) {
+	padding-right: 315px;
+}
+.editor-editfield :global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 336px;
+}
+.editor-editfield li:global(.ql-indent-8):not(:global(.ql-direction-rtl)) {
+	padding-left: 357px;
+}
+.editor-editfield :global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 336px;
+}
+.editor-editfield li:global(.ql-indent-8.ql-direction-rtl.ql-align-right) {
+	padding-right: 357px;
+}
+.editor-editfield :global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 378px;
+}
+.editor-editfield li:global(.ql-indent-9):not(:global(.ql-direction-rtl)) {
+	padding-left: 399px;
+}
+.editor-editfield :global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 378px;
+}
+.editor-editfield li:global(.ql-indent-9.ql-direction-rtl.ql-align-right) {
+	padding-right: 399px;
+}
+.editor-editfield ol [data-list='ordered'] {
+	counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+	counter-increment: list-num;
+}
+.editor-editfield ol li[data-list='ordered']:before {
+	content: counter(list-num, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1) {
+	counter-increment: list-1;
+	counter-reset: list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-1):before {
+	content: counter(list-1, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2) {
+	counter-increment: list-2;
+	counter-reset: list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-2):before {
+	content: counter(list-2, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3) {
+	counter-increment: list-3;
+	counter-reset: list-4 list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-3):before {
+	content: counter(list-3, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4) {
+	counter-increment: list-4;
+	counter-reset: list-5 list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-4):before {
+	content: counter(list-4, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5) {
+	counter-increment: list-5;
+	counter-reset: list-6 list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-5):before {
+	content: counter(list-5, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6) {
+	counter-increment: list-6;
+	counter-reset: list-7 list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-6):before {
+	content: counter(list-6, decimal) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7) {
+	counter-increment: list-7;
+	counter-reset: list-8 list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-7):before {
+	content: counter(list-7, lower-alpha) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8) {
+	counter-increment: list-8;
+	counter-reset: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-8):before {
+	content: counter(list-8, lower-roman) '. ';
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9) {
+	counter-increment: list-9;
+}
+.editor-editfield ol li[data-list='ordered']:global(.ql-indent-9):before {
+	content: counter(list-9, decimal) '. ';
+}
+</style></body></html></div>
+		</foreignObject>
+		</svg>
+</g><g width="269.37px" height="328.74px"  transform="translate(147.27, 3564.97) scale(1) rotate(0, 134.685, 164.37)"><svg
+	width="269.3675379261977"
+	height="328.7354491559769"
+	style="width:269.3675379261977px; height: 328.7354491559769px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1266631364757">
+		<path d="M253.3675379261977,164.36772457798844 C257.3675379261977,166.36772457798844 260.3675379261977,169.36772457798844 260.3675379261977,174.36772457798844 L260.3675379261977,316.7354491559769 C260.3675379261977,321.7354491559769 264.3675379261977,325.7354491559769 269.3675379261977,325.7354491559769 L269.3675379261977,327.7354491559769 L269.3675379261977,327.7354491559769 C263.3675379261977,327.7354491559769 258.3675379261977,323.7354491559769 258.3675379261977,317.7354491559769 L258.3675379261977,174.36772457798844 C258.3675379261977,169.36772457798844 254.3675379261977,165.36772457798844 249.3675379261977,165.36772457798844 L249.3675379261977,163.36772457798844 C254.3675379261977,163.36772457798844 258.3675379261977,159.36772457798844 258.3675379261977,154.36772457798844 L258.3675379261977,11 C258.3675379261977,6 263.3675379261977,1 269.3675379261977,1 L269.3675379261977,1 L269.3675379261977,3 C264.3675379261977,3 260.3675379261977,7.000000000000001 260.3675379261977,12 L260.3675379261977,154.36772457798844 C260.3675379261977,159.36772457798844 257.3675379261977,162.36772457798844 253.3675379261977,164.36772457798844"></path>
+	</clipPath>
+	<g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<path
+			d="M253.3675379261977,164.36772457798844 C257.3675379261977,166.36772457798844 260.3675379261977,169.36772457798844 260.3675379261977,174.36772457798844 L260.3675379261977,316.7354491559769 C260.3675379261977,321.7354491559769 264.3675379261977,325.7354491559769 269.3675379261977,325.7354491559769 L269.3675379261977,327.7354491559769 L269.3675379261977,327.7354491559769 C263.3675379261977,327.7354491559769 258.3675379261977,323.7354491559769 258.3675379261977,317.7354491559769 L258.3675379261977,174.36772457798844 C258.3675379261977,169.36772457798844 254.3675379261977,165.36772457798844 249.3675379261977,165.36772457798844 L249.3675379261977,163.36772457798844 C254.3675379261977,163.36772457798844 258.3675379261977,159.36772457798844 258.3675379261977,154.36772457798844 L258.3675379261977,11 C258.3675379261977,6 263.3675379261977,1 269.3675379261977,1 L269.3675379261977,1 L269.3675379261977,3 C264.3675379261977,3 260.3675379261977,7.000000000000001 260.3675379261977,12 L260.3675379261977,154.36772457798844 C260.3675379261977,159.36772457798844 257.3675379261977,162.36772457798844 253.3675379261977,164.36772457798844"
+			class="shape-element shape-element-path"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			clip-path="url(#1266631364757)"
+		></path>
+	</g>
+</svg>
+</g><g width="269.37px" height="328.74px"  transform="translate(147.27, 3564.97) rotate(0, 134.685, 164.37)"><g transform="translate(13.468376896309886, 16.436772457798845)"><text xml:space="preserve" x="0" y="159.4309521201896" width="147.55078125" textLength="147.55078125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"OpenSans", Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" font-weight="bold">Legends</text></g></g><use xlink:href="#StickerType2" transform="translate(7128.9, 1238.57) scale(0.9444768426999136) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(7118.51, 1230.07) scale(0.9444768426999136) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.5470352172851562" y="38" width="143.9059295654297" textLength="143.9059295654297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >Can this</text><text xml:space="preserve" x="53.09900665283203" y="90" width="54.681976318359375" textLength="54.681976318359375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >be </text><text xml:space="preserve" x="9.665031433105469" y="142" width="131.66993713378906" textLength="131.66993713378906" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >earlier?</text></g></g><use xlink:href="#StickerType2" transform="translate(5999.12, 1282.56) scale(0.9444768426999136) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(5988.73, 1274.06) scale(0.9444768426999136) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="11.698020935058594" y="61" width="139.56394958496094" textLength="139.56394958496094" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="46" 
+				fill="#1a1a1a" direction="ltr" >Insert </text><text xml:space="preserve" x="0.01401519775390625" y="124" width="150.9719696044922" textLength="150.9719696044922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="46" 
+				fill="#1a1a1a" direction="ltr" >Region</text></g></g></svg>
