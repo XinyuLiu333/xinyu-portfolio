@@ -598,6 +598,24 @@ export const projects: Project[] = [
       },
     ],
   },
+  {
+    slug: "touch-experience",
+    title: "Touch Experience & Molding Life",
+    company: "RISD",
+    year: "2012–2014",
+    role: "Designer & Researcher",
+    description:
+      "A multi-year exploration of physical touch as humanity's oldest medium of communication — culminating in a graduate thesis installation on how our senses transcend the limits of our physical bodies.",
+    tags: ["Embodied Interaction", "Sensory Research", "Human Connection", "Thesis Installation"],
+    isGated: false,
+    coverColor: "#3a2a2a",
+    images: [
+      {
+        src: "/images/projects/touch-experience/hero.avif",
+        alt: "Touch Experience — exploring physical touch as human communication",
+      },
+    ],
+  },
 ];
 
 export function getProjectBySlug(slug: string): Project | undefined {
