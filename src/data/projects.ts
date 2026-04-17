@@ -616,6 +616,60 @@ export const projects: Project[] = [
       },
     ],
   },
+  {
+    slug: "sensory-connection",
+    title: "Sensory Connection",
+    company: "RISD",
+    year: "2013",
+    role: "Designer & Creative Technologist",
+    description:
+      "A collaborative exploration of physical touch as the first language we learn — using Processing, Arduino, and film to prototype new forms of embodied bonding in a high-tech society.",
+    tags: ["Creative Technology", "Physical Computing", "Embodied Interaction", "Collaborative"],
+    isGated: false,
+    coverColor: "#2a2a3a",
+    images: [
+      {
+        src: "/images/projects/sensory-connection/hero.jpg",
+        alt: "Sensory Connection — physical touch as first language",
+      },
+    ],
+  },
+  {
+    slug: "food-and-space",
+    title: "Food and Space",
+    company: "RISD",
+    year: "2012",
+    role: "Designer & Filmmaker",
+    description:
+      "A playful exploration of the micro-worlds inside food — using stop motion and film to reveal the beauty, imagination, and hidden spaces we overlook every time we eat.",
+    tags: ["Experimental Film", "Stop Motion", "Sensory Exploration", "Play"],
+    isGated: false,
+    coverColor: "#3a3020",
+    images: [
+      {
+        src: "/images/projects/food-and-space/2165ed_c141c5deca2d41f89072dd27cf5ecff7.avif",
+        alt: "Food and Space — micro-worlds inside food",
+      },
+    ],
+  },
+  {
+    slug: "to-be-together",
+    title: "To Be Together",
+    company: "RISD",
+    year: "2011",
+    role: "Designer & Researcher",
+    description:
+      "A research-driven exploration of why campus environments fail to support real human connection — proposing the concept of 'emptiness' as a design intervention against technology-mediated isolation.",
+    tags: ["Environmental Design", "Psychology Research", "Human Connection", "Concept Design"],
+    isGated: false,
+    coverColor: "#2a3030",
+    images: [
+      {
+        src: "/images/projects/to-be-together/hero.avif",
+        alt: "To Be Together — designing for human connection on campus",
+      },
+    ],
+  },
 ];
 
 export function getProjectBySlug(slug: string): Project | undefined {
