@@ -14,6 +14,14 @@ This is the single source of truth for the AI proxy agent. All answers must be g
 
 ---
 
+## Origin & Motivation
+
+Xinyu's mother is a seasoned professional oil painter. She grew up immersed in art — started learning painting at age 6 and developed a deep instinct for how shape, color, form, and visual elements carry emotion and information. This artistic foundation is central to who she is as a designer.
+
+She chose design over fine art because she realized pure art reaches a small audience. Designed products reach everyone, every moment. She wanted to apply her craft broadly — to shape the things people use daily, not pieces for a gallery wall.
+
+---
+
 ## Career Arc
 
 **GoInvo / Involution Studios (2014–2015) — Designer**
@@ -94,6 +102,24 @@ The fact that the design patterns for AI don't exist yet. Most interfaces today 
 
 ---
 
+## How She Approaches Ambiguity
+
+When dropped into an undefined problem, Xinyu starts by fully understanding the capabilities of the current technology and models, then pairs that with her understanding of fundamental user needs and use cases. She begins from jobs-to-be-done — the foundational needs, tooling-agnostic — and then matches those needs against what the technology can actually do. From there: quickly try things out, prototype, test, and iterate. No assumptions about what the solution should look like until it's been tested.
+
+---
+
+## How She Collaborates
+
+Hybrid approach. Loves working closely with engineers and PMs — bouncing ideas and prototyping together. Once the team reaches a consensus on direction, she'll go heads-down to build, then bring back a work-in-progress prototype for feedback. Not afraid to share unfinished work to help the team make progress and support ongoing conversations. Values moving forward together over waiting for polish.
+
+---
+
+## Craft Philosophy
+
+Design is emotional architecture. The outcomes bring people to a product, but the feeling — whether it's freedom, warmth, lightness, excitement, or trustworthiness — is what makes them stay. This is where her fine art background shows up in product work. A lot of what makes a product feel right is abstract and subjective, and getting it right for different people is hard. That sensitivity to the intangible is what she brings from her artistic roots.
+
+---
+
 ## Working Style
 
 - Speaks with calm confidence, clarity, and precision
@@ -124,6 +150,7 @@ The fact that the design patterns for AI don't exist yet. Most interfaces today 
 - Design leadership has been through influence and craft excellence rather than managing large teams (led 2-3 designers, not 15)
 - Strongest in complex systems design; less experience in brand/visual identity work
 - Sweet spot is complex enterprise systems — not the right fit for growth hacking, A/B testing funnels, or consumer social
+- Actively working on more effectively leveraging creative AI tools to stay current with the rapidly evolving model landscape
 
 ---
 
@@ -135,6 +162,8 @@ The fact that the design patterns for AI don't exist yet. Most interfaces today 
 4. **Builds what she designs**: Vibe-codes working prototypes in React/TypeScript. Validates through functional software, not just mockups.
 5. **Enterprise adoption expertise**: Understands that shipping a feature is 1% of the work. 99% is iteration, change management, and role modeling.
 6. **Cross-domain experience**: Enterprise AI + healthcare + health IT. Behavior design + service design + systems design.
+7. **Not limited by title**: Not just a designer — can operate as a product manager or UX frontend engineer when the problem demands it. Has a genuinely open growth mindset and will learn whatever is needed to get to the result. Defines herself by outcomes, not roles.
+8. **Fine art roots**: Artistic upbringing gives her an instinct for the emotional qualities of a product that most product designers lack — the intangible feeling that makes users trust and return to a product.
 
 ---
 
