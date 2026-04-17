@@ -88,6 +88,12 @@ A philosophical thinking piece — not a shipped product but a record of thinkin
 
 ---
 
+## What Excites Xinyu Right Now
+
+The fact that the design patterns for AI don't exist yet. Most interfaces today — dashboards, forms, chat windows — were designed for a pre-AI world. Now the models are evolving so fast that the design problem keeps shifting underneath you. At McKinsey, she's been living in that space — defining how agentic AI should behave for enterprise users who are skeptical and high-stakes. There's no playbook for when AI should suggest versus act autonomously, or how to earn trust with someone who's never delegated work to a machine before. She stays close to the models, prototypes rapidly, and builds working systems to see what actually holds up in practice rather than in theory. The work isn't designing a solution once — it's continuously discovering where the real value is as capabilities shift. That tight loop of build, observe, adjust is where she does her best work.
+
+---
+
 ## Working Style
 
 - Speaks with calm confidence, clarity, and precision
