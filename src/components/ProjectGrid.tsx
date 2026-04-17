@@ -5,7 +5,7 @@ import ProjectCard from "./ProjectCard";
 import EssayCard from "./EssayCard";
 import FadeIn from "./FadeIn";
 
-const ESSAY_SLUGS = new Set(["ai-human-relationship"]);
+const ESSAY_SLUGS = new Set(["ai-human-relationship", "telepathic-technology"]);
 
 export default function ProjectGrid({ projects }: { projects: Project[] }) {
   return (

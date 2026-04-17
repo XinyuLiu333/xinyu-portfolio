@@ -580,6 +580,24 @@ export const projects: Project[] = [
       ],
     },
   },
+  {
+    slug: "telepathic-technology",
+    title: "Telepathic Technology",
+    company: "RISD × Samsung",
+    year: "2013",
+    role: "Designer & Researcher",
+    description:
+      "A multi-disciplinary exploration of sensing technologies that interact with our senses — using scenarios, vignettes, and projection mapping to imagine how future technology can lead us back to our natural environment.",
+    tags: ["Speculative Design", "Sensing Technology", "Human–Technology Relationship", "Multi-disciplinary"],
+    isGated: false,
+    coverColor: "#2a2a3d",
+    images: [
+      {
+        src: "/images/projects/telepathic-technology/hero.avif",
+        alt: "Telepathic Technology — speculative sensing technology exploration",
+      },
+    ],
+  },
 ];
 
 export function getProjectBySlug(slug: string): Project | undefined {
